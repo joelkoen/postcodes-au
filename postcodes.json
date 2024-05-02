@@ -546,18 +546,18 @@
     "longitude": 152.7549
   },
   {
-    "state": "QLD",
-    "postcode": "4053",
-    "count": 26333,
-    "latitude": -27.4004,
-    "longitude": 152.9907
-  },
-  {
     "state": "VIC",
     "postcode": "3053",
     "count": 26333,
     "latitude": -37.8014,
     "longitude": 144.9656
+  },
+  {
+    "state": "QLD",
+    "postcode": "4053",
+    "count": 26333,
+    "latitude": -27.4004,
+    "longitude": 152.9907
   },
   {
     "state": "NSW",
@@ -2261,18 +2261,18 @@
     "longitude": 145.0717
   },
   {
-    "state": "VIC",
-    "postcode": "3875",
-    "count": 13919,
-    "latitude": -37.8231,
-    "longitude": 147.6142
-  },
-  {
     "state": "NSW",
     "postcode": "2283",
     "count": 13919,
     "latitude": -33.0202,
     "longitude": 151.59
+  },
+  {
+    "state": "VIC",
+    "postcode": "3875",
+    "count": 13919,
+    "latitude": -37.8231,
+    "longitude": 147.6142
   },
   {
     "state": "QLD",
@@ -3654,18 +3654,18 @@
     "longitude": 153.0011
   },
   {
-    "state": "WA",
-    "postcode": "6050",
-    "count": 10211,
-    "latitude": -31.9282,
-    "longitude": 115.8715
-  },
-  {
     "state": "QLD",
     "postcode": "4850",
     "count": 10211,
     "latitude": -18.6418,
     "longitude": 146.1729
+  },
+  {
+    "state": "WA",
+    "postcode": "6050",
+    "count": 10211,
+    "latitude": -31.9282,
+    "longitude": 115.8715
   },
   {
     "state": "VIC",
@@ -3816,17 +3816,17 @@
   },
   {
     "state": "QLD",
-    "postcode": "4405",
-    "count": 9975,
-    "latitude": -27.1748,
-    "longitude": 151.2473
-  },
-  {
-    "state": "QLD",
     "postcode": "4103",
     "count": 9975,
     "latitude": -27.511,
     "longitude": 153.0307
+  },
+  {
+    "state": "QLD",
+    "postcode": "4405",
+    "count": 9975,
+    "latitude": -27.1748,
+    "longitude": 151.2473
   },
   {
     "state": "NSW",
@@ -4438,18 +4438,18 @@
     "longitude": 147.1577
   },
   {
-    "state": "QLD",
-    "postcode": "4341",
-    "count": 8856,
-    "latitude": -27.6027,
-    "longitude": 152.4173
-  },
-  {
     "state": "VIC",
     "postcode": "3756",
     "count": 8856,
     "latitude": -37.4122,
     "longitude": 144.9802
+  },
+  {
+    "state": "QLD",
+    "postcode": "4341",
+    "count": 8856,
+    "latitude": -27.6027,
+    "longitude": 152.4173
   },
   {
     "state": "SA",
@@ -5167,17 +5167,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2477",
-    "count": 7395,
-    "latitude": -28.8515,
-    "longitude": 153.4388
-  },
-  {
-    "state": "NSW",
     "postcode": "2222",
     "count": 7395,
     "latitude": -33.9636,
     "longitude": 151.0855
+  },
+  {
+    "state": "NSW",
+    "postcode": "2477",
+    "count": 7395,
+    "latitude": -28.8515,
+    "longitude": 153.4388
   },
   {
     "state": "NSW",
@@ -5376,18 +5376,18 @@
     "longitude": 149.0973
   },
   {
-    "state": "QLD",
-    "postcode": "4159",
-    "count": 7177,
-    "latitude": -27.4977,
-    "longitude": 153.2159
-  },
-  {
     "state": "NSW",
     "postcode": "2097",
     "count": 7177,
     "latitude": -33.7317,
     "longitude": 151.2941
+  },
+  {
+    "state": "QLD",
+    "postcode": "4159",
+    "count": 7177,
+    "latitude": -27.4977,
+    "longitude": 153.2159
   },
   {
     "state": "WA",
@@ -5530,18 +5530,18 @@
     "longitude": 116.0081
   },
   {
-    "state": "SA",
-    "postcode": "5087",
-    "count": 6952,
-    "latitude": -34.8723,
-    "longitude": 138.6459
-  },
-  {
     "state": "NSW",
     "postcode": "2069",
     "count": 6952,
     "latitude": -33.7838,
     "longitude": 151.1881
+  },
+  {
+    "state": "SA",
+    "postcode": "5087",
+    "count": 6952,
+    "latitude": -34.8723,
+    "longitude": 138.6459
   },
   {
     "state": "SA",
@@ -5999,18 +5999,18 @@
     "longitude": 145.1472
   },
   {
-    "state": "SA",
-    "postcode": "5084",
-    "count": 6200,
-    "latitude": -34.8602,
-    "longitude": 138.5915
-  },
-  {
     "state": "QLD",
     "postcode": "4380",
     "count": 6200,
     "latitude": -28.6684,
     "longitude": 151.9155
+  },
+  {
+    "state": "SA",
+    "postcode": "5084",
+    "count": 6200,
+    "latitude": -34.8602,
+    "longitude": 138.5915
   },
   {
     "state": "VIC",
@@ -6062,18 +6062,18 @@
     "longitude": 138.5728
   },
   {
-    "state": "TAS",
-    "postcode": "7015",
-    "count": 6099,
-    "latitude": -42.8455,
-    "longitude": 147.3576
-  },
-  {
     "state": "VIC",
     "postcode": "3803",
     "count": 6099,
     "latitude": -38.0062,
     "longitude": 145.2703
+  },
+  {
+    "state": "TAS",
+    "postcode": "7015",
+    "count": 6099,
+    "latitude": -42.8455,
+    "longitude": 147.3576
   },
   {
     "state": "VIC",
@@ -6133,17 +6133,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2226",
-    "count": 5942,
-    "latitude": -34.0112,
-    "longitude": 151.0644
-  },
-  {
-    "state": "NSW",
     "postcode": "2038",
     "count": 5942,
     "latitude": -33.882,
     "longitude": 151.1707
+  },
+  {
+    "state": "NSW",
+    "postcode": "2226",
+    "count": 5942,
+    "latitude": -34.0112,
+    "longitude": 151.0644
   },
   {
     "state": "VIC",
@@ -6216,6 +6216,13 @@
     "longitude": 137.5777
   },
   {
+    "state": "NSW",
+    "postcode": "2044",
+    "count": 5803,
+    "latitude": -33.9158,
+    "longitude": 151.1716
+  },
+  {
     "state": "SA",
     "postcode": "5081",
     "count": 5803,
@@ -6228,13 +6235,6 @@
     "count": 5803,
     "latitude": -31.9273,
     "longitude": 115.8538
-  },
-  {
-    "state": "NSW",
-    "postcode": "2044",
-    "count": 5803,
-    "latitude": -33.9158,
-    "longitude": 151.1716
   },
   {
     "state": "NSW",
@@ -6399,17 +6399,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2317",
-    "count": 5619,
-    "latitude": -32.7231,
-    "longitude": 152.081
-  },
-  {
-    "state": "NSW",
     "postcode": "2136",
     "count": 5619,
     "latitude": -33.8926,
     "longitude": 151.0878
+  },
+  {
+    "state": "NSW",
+    "postcode": "2317",
+    "count": 5619,
+    "latitude": -32.7231,
+    "longitude": 152.081
   },
   {
     "state": "NSW",
@@ -6986,18 +6986,18 @@
     "longitude": 153.0137
   },
   {
-    "state": "SA",
-    "postcode": "5047",
-    "count": 4792,
-    "latitude": -35.0254,
-    "longitude": 138.5503
-  },
-  {
     "state": "QLD",
     "postcode": "4154",
     "count": 4792,
     "latitude": -27.4845,
     "longitude": 153.1556
+  },
+  {
+    "state": "SA",
+    "postcode": "5047",
+    "count": 4792,
+    "latitude": -35.0254,
+    "longitude": 138.5503
   },
   {
     "state": "NSW",
@@ -7154,18 +7154,18 @@
     "longitude": 150.3096
   },
   {
-    "state": "SA",
-    "postcode": "5556",
-    "count": 4628,
-    "latitude": -33.924,
-    "longitude": 137.6332
-  },
-  {
     "state": "QLD",
     "postcode": "4715",
     "count": 4628,
     "latitude": -24.3938,
     "longitude": 150.5137
+  },
+  {
+    "state": "SA",
+    "postcode": "5556",
+    "count": 4628,
+    "latitude": -33.924,
+    "longitude": 137.6332
   },
   {
     "state": "SA",
@@ -7371,18 +7371,18 @@
     "longitude": 146.2318
   },
   {
-    "state": "TAS",
-    "postcode": "7304",
-    "count": 4348,
-    "latitude": -41.5596,
-    "longitude": 146.6072
-  },
-  {
     "state": "VIC",
     "postcode": "3722",
     "count": 4348,
     "latitude": -37.0561,
     "longitude": 146.0885
+  },
+  {
+    "state": "TAS",
+    "postcode": "7304",
+    "count": 4348,
+    "latitude": -41.5596,
+    "longitude": 146.6072
   },
   {
     "state": "VIC",
@@ -7414,17 +7414,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2785",
-    "count": 4316,
-    "latitude": -33.6393,
-    "longitude": 150.2877
-  },
-  {
-    "state": "NSW",
     "postcode": "2622",
     "count": 4316,
     "latitude": -35.4458,
     "longitude": 149.803
+  },
+  {
+    "state": "NSW",
+    "postcode": "2785",
+    "count": 4316,
+    "latitude": -33.6393,
+    "longitude": 150.2877
   },
   {
     "state": "VIC",
@@ -7861,11 +7861,11 @@
     "longitude": 144.1747
   },
   {
-    "state": "SA",
-    "postcode": "5091",
+    "state": "NSW",
+    "postcode": "2787",
     "count": 3785,
-    "latitude": -34.8189,
-    "longitude": 138.7254
+    "latitude": -33.7296,
+    "longitude": 149.8679
   },
   {
     "state": "QLD",
@@ -7875,11 +7875,11 @@
     "longitude": 145.2946
   },
   {
-    "state": "NSW",
-    "postcode": "2787",
+    "state": "SA",
+    "postcode": "5091",
     "count": 3785,
-    "latitude": -33.7296,
-    "longitude": 149.8679
+    "latitude": -34.8189,
+    "longitude": 138.7254
   },
   {
     "state": "SA",
@@ -8212,17 +8212,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2835",
-    "count": 3460,
-    "latitude": -31.5079,
-    "longitude": 145.8412
-  },
-  {
-    "state": "NSW",
     "postcode": "2505",
     "count": 3460,
     "latitude": -34.4855,
     "longitude": 150.9007
+  },
+  {
+    "state": "NSW",
+    "postcode": "2835",
+    "count": 3460,
+    "latitude": -31.5079,
+    "longitude": 145.8412
   },
   {
     "state": "VIC",
@@ -8365,11 +8365,11 @@
     "longitude": 138.7199
   },
   {
-    "state": "QLD",
-    "postcode": "4172",
+    "state": "NSW",
+    "postcode": "2671",
     "count": 3300,
-    "latitude": -27.4608,
-    "longitude": 153.0998
+    "latitude": -33.9012,
+    "longitude": 147.206
   },
   {
     "state": "NSW",
@@ -8379,11 +8379,11 @@
     "longitude": 146.9914
   },
   {
-    "state": "NSW",
-    "postcode": "2671",
+    "state": "QLD",
+    "postcode": "4172",
     "count": 3300,
-    "latitude": -33.9012,
-    "longitude": 147.206
+    "latitude": -27.4608,
+    "longitude": 153.0998
   },
   {
     "state": "VIC",
@@ -8498,18 +8498,18 @@
     "longitude": 151.2158
   },
   {
-    "state": "SA",
-    "postcode": "5017",
-    "count": 3099,
-    "latitude": -34.8034,
-    "longitude": 138.4992
-  },
-  {
     "state": "VIC",
     "postcode": "3460",
     "count": 3099,
     "latitude": -37.3437,
     "longitude": 144.1436
+  },
+  {
+    "state": "SA",
+    "postcode": "5017",
+    "count": 3099,
+    "latitude": -34.8034,
+    "longitude": 138.4992
   },
   {
     "state": "NSW",
@@ -8764,18 +8764,18 @@
     "longitude": 146.2396
   },
   {
-    "state": "QLD",
-    "postcode": "4521",
-    "count": 2894,
-    "latitude": -27.1603,
-    "longitude": 152.8051
-  },
-  {
     "state": "VIC",
     "postcode": "3036",
     "count": 2894,
     "latitude": -37.7142,
     "longitude": 144.8242
+  },
+  {
+    "state": "QLD",
+    "postcode": "4521",
+    "count": 2894,
+    "latitude": -27.1603,
+    "longitude": 152.8051
   },
   {
     "state": "NSW",
@@ -9583,18 +9583,18 @@
     "longitude": 136.9008
   },
   {
-    "state": "TAS",
-    "postcode": "7322",
-    "count": 2274,
-    "latitude": -41.0444,
-    "longitude": 145.8227
-  },
-  {
     "state": "QLD",
     "postcode": "4415",
     "count": 2274,
     "latitude": -26.6395,
     "longitude": 150.1951
+  },
+  {
+    "state": "TAS",
+    "postcode": "7322",
+    "count": 2274,
+    "latitude": -41.0444,
+    "longitude": 145.8227
   },
   {
     "state": "VIC",
@@ -9632,18 +9632,18 @@
     "longitude": 150.9843
   },
   {
-    "state": "VIC",
-    "postcode": "3775",
-    "count": 2210,
-    "latitude": -37.6427,
-    "longitude": 145.3736
-  },
-  {
     "state": "NSW",
     "postcode": "2225",
     "count": 2210,
     "latitude": -34.0041,
     "longitude": 151.0805
+  },
+  {
+    "state": "VIC",
+    "postcode": "3775",
+    "count": 2210,
+    "latitude": -37.6427,
+    "longitude": 145.3736
   },
   {
     "state": "QLD",
@@ -9695,18 +9695,18 @@
     "longitude": 115.5519
   },
   {
-    "state": "QLD",
-    "postcode": "4174",
-    "count": 2184,
-    "latitude": -27.4509,
-    "longitude": 153.13
-  },
-  {
     "state": "VIC",
     "postcode": "3944",
     "count": 2184,
     "latitude": -38.3258,
     "longitude": 144.7172
+  },
+  {
+    "state": "QLD",
+    "postcode": "4174",
+    "count": 2184,
+    "latitude": -27.4509,
+    "longitude": 153.13
   },
   {
     "state": "SA",
@@ -9906,17 +9906,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3892",
-    "count": 1999,
-    "latitude": -37.5545,
-    "longitude": 149.7529
-  },
-  {
-    "state": "VIC",
     "postcode": "3781",
     "count": 1999,
     "latitude": -37.937,
     "longitude": 145.4966
+  },
+  {
+    "state": "VIC",
+    "postcode": "3892",
+    "count": 1999,
+    "latitude": -37.5545,
+    "longitude": 149.7529
   },
   {
     "state": "QLD",
@@ -9983,17 +9983,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3568",
-    "count": 1965,
-    "latitude": -35.8102,
-    "longitude": 144.2119
-  },
-  {
-    "state": "VIC",
     "postcode": "3478",
     "count": 1965,
     "latitude": -36.6686,
     "longitude": 143.2663
+  },
+  {
+    "state": "VIC",
+    "postcode": "3568",
+    "count": 1965,
+    "latitude": -35.8102,
+    "longitude": 144.2119
   },
   {
     "state": "VIC",
@@ -10080,18 +10080,18 @@
     "longitude": 143.0982
   },
   {
-    "state": "VIC",
-    "postcode": "3357",
-    "count": 1927,
-    "latitude": -37.6506,
-    "longitude": 143.8855
-  },
-  {
     "state": "NSW",
     "postcode": "2471",
     "count": 1927,
     "latitude": -29.0007,
     "longitude": 153.2622
+  },
+  {
+    "state": "VIC",
+    "postcode": "3357",
+    "count": 1927,
+    "latitude": -37.6506,
+    "longitude": 143.8855
   },
   {
     "state": "NSW",
@@ -10269,6 +10269,13 @@
     "longitude": 138.1908
   },
   {
+    "state": "QLD",
+    "postcode": "4472",
+    "count": 1819,
+    "latitude": -24.4422,
+    "longitude": 145.4767
+  },
+  {
     "state": "SA",
     "postcode": "5491",
     "count": 1819,
@@ -10283,11 +10290,11 @@
     "longitude": 145.5535
   },
   {
-    "state": "QLD",
-    "postcode": "4472",
-    "count": 1819,
-    "latitude": -24.4422,
-    "longitude": 145.4767
+    "state": "VIC",
+    "postcode": "3373",
+    "count": 1817,
+    "latitude": -37.4282,
+    "longitude": 143.3771
   },
   {
     "state": "TAS",
@@ -10297,13 +10304,6 @@
     "longitude": 146.8352
   },
   {
-    "state": "VIC",
-    "postcode": "3373",
-    "count": 1817,
-    "latitude": -37.4282,
-    "longitude": 143.3771
-  },
-  {
     "state": "QLD",
     "postcode": "4270",
     "count": 1816,
@@ -10311,18 +10311,18 @@
     "longitude": 153.1244
   },
   {
-    "state": "SA",
-    "postcode": "5160",
-    "count": 1813,
-    "latitude": -35.1107,
-    "longitude": 138.4984
-  },
-  {
     "state": "VIC",
     "postcode": "3114",
     "count": 1813,
     "latitude": -37.781,
     "longitude": 145.217
+  },
+  {
+    "state": "SA",
+    "postcode": "5160",
+    "count": 1813,
+    "latitude": -35.1107,
+    "longitude": 138.4984
   },
   {
     "state": "QLD",
@@ -10381,18 +10381,18 @@
     "longitude": 138.9227
   },
   {
-    "state": "QLD",
-    "postcode": "4358",
-    "count": 1798,
-    "latitude": -27.7319,
-    "longitude": 151.8542
-  },
-  {
     "state": "NT",
     "postcode": "0860",
     "count": 1798,
     "latitude": -19.649,
     "longitude": 134.1912
+  },
+  {
+    "state": "QLD",
+    "postcode": "4358",
+    "count": 1798,
+    "latitude": -27.7319,
+    "longitude": 151.8542
   },
   {
     "state": "SA",
@@ -10458,18 +10458,18 @@
     "longitude": 147.3233
   },
   {
-    "state": "WA",
-    "postcode": "6751",
-    "count": 1752,
-    "latitude": -22.6636,
-    "longitude": 117.8132
-  },
-  {
     "state": "NSW",
     "postcode": "2653",
     "count": 1752,
     "latitude": -35.7726,
     "longitude": 148.0095
+  },
+  {
+    "state": "WA",
+    "postcode": "6751",
+    "count": 1752,
+    "latitude": -22.6636,
+    "longitude": 117.8132
   },
   {
     "state": "VIC",
@@ -10745,18 +10745,18 @@
     "longitude": 138.5952
   },
   {
-    "state": "SA",
-    "postcode": "5222",
-    "count": 1608,
-    "latitude": -35.7709,
-    "longitude": 137.897
-  },
-  {
     "state": "QLD",
     "postcode": "4849",
     "count": 1608,
     "latitude": -18.2696,
     "longitude": 146.0293
+  },
+  {
+    "state": "SA",
+    "postcode": "5222",
+    "count": 1608,
+    "latitude": -35.7709,
+    "longitude": 137.897
   },
   {
     "state": "WA",
@@ -10801,18 +10801,18 @@
     "longitude": 139.6449
   },
   {
-    "state": "WA",
-    "postcode": "6070",
-    "count": 1584,
-    "latitude": -31.9151,
-    "longitude": 116.0772
-  },
-  {
     "state": "VIC",
     "postcode": "3812",
     "count": 1584,
     "latitude": -38.0628,
     "longitude": 145.5594
+  },
+  {
+    "state": "WA",
+    "postcode": "6070",
+    "count": 1584,
+    "latitude": -31.9151,
+    "longitude": 116.0772
   },
   {
     "state": "NSW",
@@ -10885,18 +10885,18 @@
     "longitude": 153.3752
   },
   {
-    "state": "QLD",
-    "postcode": "4490",
-    "count": 1537,
-    "latitude": -28.0874,
-    "longitude": 145.5946
-  },
-  {
     "state": "VIC",
     "postcode": "3821",
     "count": 1537,
     "latitude": -38.1569,
     "longitude": 145.9536
+  },
+  {
+    "state": "QLD",
+    "postcode": "4490",
+    "count": 1537,
+    "latitude": -28.0874,
+    "longitude": 145.5946
   },
   {
     "state": "QLD",
@@ -11067,13 +11067,6 @@
     "longitude": 116.0154
   },
   {
-    "state": "QLD",
-    "postcode": "4722",
-    "count": 1449,
-    "latitude": -24.1631,
-    "longitude": 148.0666
-  },
-  {
     "state": "VIC",
     "postcode": "3265",
     "count": 1449,
@@ -11086,6 +11079,13 @@
     "count": 1449,
     "latitude": -25.3371,
     "longitude": 151.087
+  },
+  {
+    "state": "QLD",
+    "postcode": "4722",
+    "count": 1449,
+    "latitude": -24.1631,
+    "longitude": 148.0666
   },
   {
     "state": "TAS",
@@ -11186,18 +11186,18 @@
     "longitude": 149.9715
   },
   {
-    "state": "WA",
-    "postcode": "6077",
-    "count": 1405,
-    "latitude": -31.775,
-    "longitude": 115.8576
-  },
-  {
     "state": "NSW",
     "postcode": "2655",
     "count": 1405,
     "latitude": -35.2661,
     "longitude": 147.115
+  },
+  {
+    "state": "WA",
+    "postcode": "6077",
+    "count": 1405,
+    "latitude": -31.775,
+    "longitude": 115.8576
   },
   {
     "state": "NSW",
@@ -11305,18 +11305,18 @@
     "longitude": 152.8214
   },
   {
-    "state": "WA",
-    "postcode": "6426",
-    "count": 1347,
-    "latitude": -31.3175,
-    "longitude": 119.3634
-  },
-  {
     "state": "SA",
     "postcode": "5583",
     "count": 1347,
     "latitude": -35.0756,
     "longitude": 137.7387
+  },
+  {
+    "state": "WA",
+    "postcode": "6426",
+    "count": 1347,
+    "latitude": -31.3175,
+    "longitude": 119.3634
   },
   {
     "state": "SA",
@@ -11397,17 +11397,17 @@
   },
   {
     "state": "WA",
-    "postcode": "6443",
-    "count": 1306,
-    "latitude": -32.1535,
-    "longitude": 122.1306
-  },
-  {
-    "state": "WA",
     "postcode": "6275",
     "count": 1306,
     "latitude": -33.9984,
     "longitude": 115.7331
+  },
+  {
+    "state": "WA",
+    "postcode": "6443",
+    "count": 1306,
+    "latitude": -32.1535,
+    "longitude": 122.1306
   },
   {
     "state": "VIC",
@@ -11530,17 +11530,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3621",
-    "count": 1253,
-    "latitude": -36.251,
-    "longitude": 144.9617
-  },
-  {
-    "state": "VIC",
     "postcode": "3272",
     "count": 1253,
     "latitude": -38.0555,
     "longitude": 142.8078
+  },
+  {
+    "state": "VIC",
+    "postcode": "3621",
+    "count": 1253,
+    "latitude": -36.251,
+    "longitude": 144.9617
   },
   {
     "state": "VIC",
@@ -11600,17 +11600,17 @@
   },
   {
     "state": "NSW",
-    "postcode": "2869",
-    "count": 1233,
-    "latitude": -32.6862,
-    "longitude": 148.1826
-  },
-  {
-    "state": "NSW",
     "postcode": "2823",
     "count": 1233,
     "latitude": -32.0266,
     "longitude": 147.9715
+  },
+  {
+    "state": "NSW",
+    "postcode": "2869",
+    "count": 1233,
+    "latitude": -32.6862,
+    "longitude": 148.1826
   },
   {
     "state": "NSW",
@@ -11655,18 +11655,18 @@
     "longitude": 145.1187
   },
   {
-    "state": "TAS",
-    "postcode": "7021",
-    "count": 1208,
-    "latitude": -42.9073,
-    "longitude": 147.4938
-  },
-  {
     "state": "QLD",
     "postcode": "4858",
     "count": 1208,
     "latitude": -17.5906,
     "longitude": 146.0668
+  },
+  {
+    "state": "TAS",
+    "postcode": "7021",
+    "count": 1208,
+    "latitude": -42.9073,
+    "longitude": 147.4938
   },
   {
     "state": "SA",
@@ -11747,17 +11747,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3808",
-    "count": 1172,
-    "latitude": -37.9974,
-    "longitude": 145.4196
-  },
-  {
-    "state": "VIC",
     "postcode": "3159",
     "count": 1172,
     "latitude": -37.9178,
     "longitude": 145.3839
+  },
+  {
+    "state": "VIC",
+    "postcode": "3808",
+    "count": 1172,
+    "latitude": -37.9974,
+    "longitude": 145.4196
   },
   {
     "state": "NSW",
@@ -11844,18 +11844,18 @@
     "longitude": 140.3385
   },
   {
-    "state": "TAS",
-    "postcode": "7264",
-    "count": 1137,
-    "latitude": -41.0401,
-    "longitude": 148.0326
-  },
-  {
     "state": "QLD",
     "postcode": "4410",
     "count": 1137,
     "latitude": -26.7256,
     "longitude": 151.1225
+  },
+  {
+    "state": "TAS",
+    "postcode": "7264",
+    "count": 1137,
+    "latitude": -41.0401,
+    "longitude": 148.0326
   },
   {
     "state": "SA",
@@ -11992,17 +11992,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3749",
-    "count": 1088,
-    "latitude": -36.3214,
-    "longitude": 146.8482
-  },
-  {
-    "state": "VIC",
     "postcode": "3683",
     "count": 1088,
     "latitude": -36.1554,
     "longitude": 146.6027
+  },
+  {
+    "state": "VIC",
+    "postcode": "3749",
+    "count": 1088,
+    "latitude": -36.3214,
+    "longitude": 146.8482
   },
   {
     "state": "QLD",
@@ -12034,6 +12034,13 @@
   },
   {
     "state": "VIC",
+    "postcode": "3518",
+    "count": 1081,
+    "latitude": -36.414,
+    "longitude": 143.6226
+  },
+  {
+    "state": "VIC",
     "postcode": "3675",
     "count": 1081,
     "latitude": -36.4707,
@@ -12047,11 +12054,11 @@
     "longitude": 121.3339
   },
   {
-    "state": "VIC",
-    "postcode": "3518",
-    "count": 1081,
-    "latitude": -36.414,
-    "longitude": 143.6226
+    "state": "NSW",
+    "postcode": "2717",
+    "count": 1077,
+    "latitude": -34.09,
+    "longitude": 142.0559
   },
   {
     "state": "VIC",
@@ -12059,13 +12066,6 @@
     "count": 1077,
     "latitude": -37.3614,
     "longitude": 145.0283
-  },
-  {
-    "state": "NSW",
-    "postcode": "2717",
-    "count": 1077,
-    "latitude": -34.09,
-    "longitude": 142.0559
   },
   {
     "state": "SA",
@@ -12250,18 +12250,18 @@
     "longitude": 150.9796
   },
   {
-    "state": "WA",
-    "postcode": "6603",
-    "count": 1017,
-    "latitude": -30.8975,
-    "longitude": 116.7257
-  },
-  {
     "state": "VIC",
     "postcode": "3371",
     "count": 1017,
     "latitude": -37.1897,
     "longitude": 143.6897
+  },
+  {
+    "state": "WA",
+    "postcode": "6603",
+    "count": 1017,
+    "latitude": -30.8975,
+    "longitude": 116.7257
   },
   {
     "state": "VIC",
@@ -12370,24 +12370,17 @@
   },
   {
     "state": "SA",
-    "postcode": "5495",
-    "count": 980,
-    "latitude": -33.0062,
-    "longitude": 138.0089
-  },
-  {
-    "state": "SA",
     "postcode": "5480",
     "count": 980,
     "latitude": -33.1474,
     "longitude": 138.3226
   },
   {
-    "state": "QLD",
-    "postcode": "4400",
-    "count": 979,
-    "latitude": -27.4765,
-    "longitude": 151.8209
+    "state": "SA",
+    "postcode": "5495",
+    "count": 980,
+    "latitude": -33.0062,
+    "longitude": 138.0089
   },
   {
     "state": "NSW",
@@ -12395,6 +12388,13 @@
     "count": 979,
     "latitude": -34.1671,
     "longitude": 142.1807
+  },
+  {
+    "state": "QLD",
+    "postcode": "4400",
+    "count": 979,
+    "latitude": -27.4765,
+    "longitude": 151.8209
   },
   {
     "state": "VIC",
@@ -12425,18 +12425,18 @@
     "longitude": 148.1233
   },
   {
-    "state": "VIC",
-    "postcode": "3285",
-    "count": 970,
-    "latitude": -38.2725,
-    "longitude": 141.8821
-  },
-  {
     "state": "NSW",
     "postcode": "2793",
     "count": 970,
     "latitude": -33.7983,
     "longitude": 148.8729
+  },
+  {
+    "state": "VIC",
+    "postcode": "3285",
+    "count": 970,
+    "latitude": -38.2725,
+    "longitude": 141.8821
   },
   {
     "state": "VIC",
@@ -12628,18 +12628,18 @@
     "longitude": 145.8736
   },
   {
-    "state": "WA",
-    "postcode": "6375",
-    "count": 891,
-    "latitude": -32.3221,
-    "longitude": 117.8801
-  },
-  {
     "state": "QLD",
     "postcode": "4359",
     "count": 891,
     "latitude": -27.7873,
     "longitude": 151.9603
+  },
+  {
+    "state": "WA",
+    "postcode": "6375",
+    "count": 891,
+    "latitude": -32.3221,
+    "longitude": 117.8801
   },
   {
     "state": "VIC",
@@ -12726,11 +12726,11 @@
     "longitude": 145.5361
   },
   {
-    "state": "SA",
-    "postcode": "5520",
+    "state": "QLD",
+    "postcode": "4354",
     "count": 844,
-    "latitude": -33.7871,
-    "longitude": 138.194
+    "latitude": -27.3035,
+    "longitude": 151.8555
   },
   {
     "state": "QLD",
@@ -12740,11 +12740,11 @@
     "longitude": 148.6097
   },
   {
-    "state": "QLD",
-    "postcode": "4354",
+    "state": "SA",
+    "postcode": "5520",
     "count": 844,
-    "latitude": -27.3035,
-    "longitude": 151.8555
+    "latitude": -33.7871,
+    "longitude": 138.194
   },
   {
     "state": "NSW",
@@ -12803,11 +12803,11 @@
     "longitude": 138.6664
   },
   {
-    "state": "TAS",
-    "postcode": "7117",
+    "state": "VIC",
+    "postcode": "3558",
     "count": 834,
-    "latitude": -43.3137,
-    "longitude": 147.0192
+    "latitude": -36.491,
+    "longitude": 144.61
   },
   {
     "state": "QLD",
@@ -12817,18 +12817,11 @@
     "longitude": 145.9906
   },
   {
-    "state": "VIC",
-    "postcode": "3558",
+    "state": "TAS",
+    "postcode": "7117",
     "count": 834,
-    "latitude": -36.491,
-    "longitude": 144.61
-  },
-  {
-    "state": "WA",
-    "postcode": "6346",
-    "count": 833,
-    "latitude": -33.5997,
-    "longitude": 120.0544
+    "latitude": -43.3137,
+    "longitude": 147.0192
   },
   {
     "state": "VIC",
@@ -12836,6 +12829,13 @@
     "count": 833,
     "latitude": -36.7329,
     "longitude": 147.152
+  },
+  {
+    "state": "WA",
+    "postcode": "6346",
+    "count": 833,
+    "latitude": -33.5997,
+    "longitude": 120.0544
   },
   {
     "state": "SA",
@@ -12943,13 +12943,6 @@
     "longitude": 131.0302
   },
   {
-    "state": "SA",
-    "postcode": "5464",
-    "count": 803,
-    "latitude": -33.6686,
-    "longitude": 138.3795
-  },
-  {
     "state": "VIC",
     "postcode": "3283",
     "count": 803,
@@ -12957,11 +12950,11 @@
     "longitude": 142.3284
   },
   {
-    "state": "WA",
-    "postcode": "6718",
-    "count": 800,
-    "latitude": -20.7677,
-    "longitude": 117.1489
+    "state": "SA",
+    "postcode": "5464",
+    "count": 803,
+    "latitude": -33.6686,
+    "longitude": 138.3795
   },
   {
     "state": "VIC",
@@ -12979,10 +12972,10 @@
   },
   {
     "state": "WA",
-    "postcode": "6630",
-    "count": 798,
-    "latitude": -28.516,
-    "longitude": 115.5147
+    "postcode": "6718",
+    "count": 800,
+    "latitude": -20.7677,
+    "longitude": 117.1489
   },
   {
     "state": "NSW",
@@ -12990,6 +12983,13 @@
     "count": 798,
     "latitude": -32.276,
     "longitude": 147.3331
+  },
+  {
+    "state": "WA",
+    "postcode": "6630",
+    "count": 798,
+    "latitude": -28.516,
+    "longitude": 115.5147
   },
   {
     "state": "VIC",
@@ -13042,17 +13042,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3923",
-    "count": 782,
-    "latitude": -38.4661,
-    "longitude": 145.3002
-  },
-  {
-    "state": "VIC",
     "postcode": "3740",
     "count": 782,
     "latitude": -36.7051,
     "longitude": 146.9072
+  },
+  {
+    "state": "VIC",
+    "postcode": "3923",
+    "count": 782,
+    "latitude": -38.4661,
+    "longitude": 145.3002
   },
   {
     "state": "NSW",
@@ -13139,18 +13139,18 @@
     "longitude": 148.8199
   },
   {
-    "state": "SA",
-    "postcode": "5582",
-    "count": 766,
-    "latitude": -34.9091,
-    "longitude": 137.7925
-  },
-  {
     "state": "NSW",
     "postcode": "2828",
     "count": 766,
     "latitude": -31.3223,
     "longitude": 148.5063
+  },
+  {
+    "state": "SA",
+    "postcode": "5582",
+    "count": 766,
+    "latitude": -34.9091,
+    "longitude": 137.7925
   },
   {
     "state": "NSW",
@@ -13161,17 +13161,17 @@
   },
   {
     "state": "SA",
-    "postcode": "5481",
-    "count": 757,
-    "latitude": -33.0179,
-    "longitude": 138.2461
-  },
-  {
-    "state": "SA",
     "postcode": "5473",
     "count": 757,
     "latitude": -33.2675,
     "longitude": 138.3592
+  },
+  {
+    "state": "SA",
+    "postcode": "5481",
+    "count": 757,
+    "latitude": -33.0179,
+    "longitude": 138.2461
   },
   {
     "state": "WA",
@@ -13314,18 +13314,18 @@
     "longitude": 141.2438
   },
   {
-    "state": "TAS",
-    "postcode": "7305",
-    "count": 734,
-    "latitude": -41.3493,
-    "longitude": 146.4242
-  },
-  {
     "state": "VIC",
     "postcode": "3951",
     "count": 734,
     "latitude": -38.4634,
     "longitude": 145.7961
+  },
+  {
+    "state": "TAS",
+    "postcode": "7305",
+    "count": 734,
+    "latitude": -41.3493,
+    "longitude": 146.4242
   },
   {
     "state": "VIC",
@@ -13398,18 +13398,18 @@
     "longitude": 145.6922
   },
   {
-    "state": "WA",
-    "postcode": "6646",
-    "count": 713,
-    "latitude": -26.5935,
-    "longitude": 120.2304
-  },
-  {
     "state": "VIC",
     "postcode": "3767",
     "count": 713,
     "latitude": -37.8371,
     "longitude": 145.3572
+  },
+  {
+    "state": "WA",
+    "postcode": "6646",
+    "count": 713,
+    "latitude": -26.5935,
+    "longitude": 120.2304
   },
   {
     "state": "VIC",
@@ -13462,17 +13462,17 @@
   },
   {
     "state": "SA",
-    "postcode": "5301",
-    "count": 698,
-    "latitude": -35.38,
-    "longitude": 140.0113
-  },
-  {
-    "state": "SA",
     "postcode": "5278",
     "count": 698,
     "latitude": -37.5594,
     "longitude": 140.6996
+  },
+  {
+    "state": "SA",
+    "postcode": "5301",
+    "count": 698,
+    "latitude": -35.38,
+    "longitude": 140.0113
   },
   {
     "state": "SA",
@@ -13482,18 +13482,18 @@
     "longitude": 138.5319
   },
   {
-    "state": "VIC",
-    "postcode": "3289",
-    "count": 694,
-    "latitude": -37.8792,
-    "longitude": 142.2833
-  },
-  {
     "state": "NSW",
     "postcode": "2879",
     "count": 694,
     "latitude": -32.3656,
     "longitude": 142.4255
+  },
+  {
+    "state": "VIC",
+    "postcode": "3289",
+    "count": 694,
+    "latitude": -37.8792,
+    "longitude": 142.2833
   },
   {
     "state": "WA",
@@ -13503,18 +13503,18 @@
     "longitude": 116.7285
   },
   {
-    "state": "SA",
-    "postcode": "5360",
-    "count": 691,
-    "latitude": -34.4548,
-    "longitude": 138.9269
-  },
-  {
     "state": "VIC",
     "postcode": "3390",
     "count": 691,
     "latitude": -36.6066,
     "longitude": 142.4669
+  },
+  {
+    "state": "SA",
+    "postcode": "5360",
+    "count": 691,
+    "latitude": -34.4548,
+    "longitude": 138.9269
   },
   {
     "state": "VIC",
@@ -13538,18 +13538,18 @@
     "longitude": 144.3576
   },
   {
-    "state": "WA",
-    "postcode": "6623",
-    "count": 685,
-    "latitude": -29.2044,
-    "longitude": 116.0262
-  },
-  {
     "state": "VIC",
     "postcode": "3786",
     "count": 685,
     "latitude": -37.8796,
     "longitude": 145.3363
+  },
+  {
+    "state": "WA",
+    "postcode": "6623",
+    "count": 685,
+    "latitude": -29.2044,
+    "longitude": 116.0262
   },
   {
     "state": "VIC",
@@ -13685,11 +13685,11 @@
     "longitude": 146.6883
   },
   {
-    "state": "QLD",
-    "postcode": "4427",
+    "state": "VIC",
+    "postcode": "3332",
     "count": 657,
-    "latitude": -26.5819,
-    "longitude": 149.3906
+    "latitude": -37.9615,
+    "longitude": 144.1298
   },
   {
     "state": "VIC",
@@ -13699,18 +13699,18 @@
     "longitude": 143.2515
   },
   {
-    "state": "VIC",
-    "postcode": "3332",
-    "count": 657,
-    "latitude": -37.9615,
-    "longitude": 144.1298
-  },
-  {
     "state": "QLD",
     "postcode": "4360",
     "count": 657,
     "latitude": -27.8503,
     "longitude": 151.8998
+  },
+  {
+    "state": "QLD",
+    "postcode": "4427",
+    "count": 657,
+    "latitude": -26.5819,
+    "longitude": 149.3906
   },
   {
     "state": "VIC",
@@ -13769,13 +13769,6 @@
     "longitude": 151.8777
   },
   {
-    "state": "QLD",
-    "postcode": "4371",
-    "count": 642,
-    "latitude": -28.196,
-    "longitude": 152.2508
-  },
-  {
     "state": "NSW",
     "postcode": "2618",
     "count": 642,
@@ -13784,17 +13777,17 @@
   },
   {
     "state": "QLD",
+    "postcode": "4371",
+    "count": 642,
+    "latitude": -28.196,
+    "longitude": 152.2508
+  },
+  {
+    "state": "QLD",
     "postcode": "4707",
     "count": 637,
     "latitude": -22.3334,
     "longitude": 149.5074
-  },
-  {
-    "state": "TAS",
-    "postcode": "7022",
-    "count": 635,
-    "latitude": -43.0268,
-    "longitude": 147.4159
   },
   {
     "state": "SA",
@@ -13809,6 +13802,13 @@
     "count": 635,
     "latitude": -32.6792,
     "longitude": 118.1533
+  },
+  {
+    "state": "TAS",
+    "postcode": "7022",
+    "count": 635,
+    "latitude": -43.0268,
+    "longitude": 147.4159
   },
   {
     "state": "SA",
@@ -13874,18 +13874,18 @@
     "longitude": 150.6768
   },
   {
-    "state": "TAS",
-    "postcode": "7026",
-    "count": 615,
-    "latitude": -42.6574,
-    "longitude": 147.4224
-  },
-  {
     "state": "NSW",
     "postcode": "2865",
     "count": 615,
     "latitude": -33.1785,
     "longitude": 148.6791
+  },
+  {
+    "state": "TAS",
+    "postcode": "7026",
+    "count": 615,
+    "latitude": -42.6574,
+    "longitude": 147.4224
   },
   {
     "state": "WA",
@@ -13923,6 +13923,13 @@
     "longitude": 140.8955
   },
   {
+    "state": "NSW",
+    "postcode": "2659",
+    "count": 606,
+    "latitude": -35.7402,
+    "longitude": 146.8852
+  },
+  {
     "state": "QLD",
     "postcode": "4497",
     "count": 606,
@@ -13935,13 +13942,6 @@
     "count": 606,
     "latitude": -20.6645,
     "longitude": 116.7118
-  },
-  {
-    "state": "NSW",
-    "postcode": "2659",
-    "count": 606,
-    "latitude": -35.7402,
-    "longitude": 146.8852
   },
   {
     "state": "NSW",
@@ -14015,17 +14015,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3933",
-    "count": 588,
-    "latitude": -38.2479,
-    "longitude": 145.1178
-  },
-  {
-    "state": "VIC",
     "postcode": "3795",
     "count": 588,
     "latitude": -37.8305,
     "longitude": 145.4324
+  },
+  {
+    "state": "VIC",
+    "postcode": "3933",
+    "count": 588,
+    "latitude": -38.2479,
+    "longitude": 145.1178
   },
   {
     "state": "WA",
@@ -14057,10 +14057,10 @@
   },
   {
     "state": "QLD",
-    "postcode": "4726",
+    "postcode": "4408",
     "count": 579,
-    "latitude": -22.9015,
-    "longitude": 145.2636
+    "latitude": -26.8911,
+    "longitude": 151.4149
   },
   {
     "state": "QLD",
@@ -14071,10 +14071,10 @@
   },
   {
     "state": "QLD",
-    "postcode": "4408",
+    "postcode": "4726",
     "count": 579,
-    "latitude": -26.8911,
-    "longitude": 151.4149
+    "latitude": -22.9015,
+    "longitude": 145.2636
   },
   {
     "state": "WA",
@@ -14105,18 +14105,18 @@
     "longitude": 117.6464
   },
   {
-    "state": "SA",
-    "postcode": "5381",
-    "count": 574,
-    "latitude": -33.9496,
-    "longitude": 139.0677
-  },
-  {
     "state": "NSW",
     "postcode": "2569",
     "count": 574,
     "latitude": -34.1859,
     "longitude": 150.713
+  },
+  {
+    "state": "SA",
+    "postcode": "5381",
+    "count": 574,
+    "latitude": -33.9496,
+    "longitude": 139.0677
   },
   {
     "state": "SA",
@@ -14182,18 +14182,18 @@
     "longitude": 145.2814
   },
   {
-    "state": "WA",
-    "postcode": "6461",
-    "count": 559,
-    "latitude": -31.1827,
-    "longitude": 117.037
-  },
-  {
     "state": "SA",
     "postcode": "5131",
     "count": 559,
     "latitude": -34.8128,
     "longitude": 138.7606
+  },
+  {
+    "state": "WA",
+    "postcode": "6461",
+    "count": 559,
+    "latitude": -31.1827,
+    "longitude": 117.037
   },
   {
     "state": "SA",
@@ -14224,13 +14224,6 @@
     "longitude": 136.5145
   },
   {
-    "state": "WA",
-    "postcode": "6405",
-    "count": 553,
-    "latitude": -31.6218,
-    "longitude": 117.01
-  },
-  {
     "state": "NSW",
     "postcode": "2424",
     "count": 553,
@@ -14243,6 +14236,13 @@
     "count": 553,
     "latitude": -25.7618,
     "longitude": 146.623
+  },
+  {
+    "state": "WA",
+    "postcode": "6405",
+    "count": 553,
+    "latitude": -31.6218,
+    "longitude": 117.01
   },
   {
     "state": "NSW",
@@ -14266,18 +14266,18 @@
     "longitude": 145.352
   },
   {
-    "state": "WA",
-    "postcode": "6501",
-    "count": 548,
-    "latitude": -31.5694,
-    "longitude": 115.9687
-  },
-  {
     "state": "NSW",
     "postcode": "2757",
     "count": 548,
     "latitude": -33.5519,
     "longitude": 150.6972
+  },
+  {
+    "state": "WA",
+    "postcode": "6501",
+    "count": 548,
+    "latitude": -31.5694,
+    "longitude": 115.9687
   },
   {
     "state": "VIC",
@@ -14294,18 +14294,18 @@
     "longitude": 145.0251
   },
   {
-    "state": "WA",
-    "postcode": "6218",
-    "count": 545,
-    "latitude": -32.9557,
-    "longitude": 115.8995
-  },
-  {
     "state": "QLD",
     "postcode": "4891",
     "count": 545,
     "latitude": -17.4829,
     "longitude": 140.8379
+  },
+  {
+    "state": "WA",
+    "postcode": "6218",
+    "count": 545,
+    "latitude": -32.9557,
+    "longitude": 115.8995
   },
   {
     "state": "WA",
@@ -14420,18 +14420,18 @@
     "longitude": 144.3468
   },
   {
-    "state": "TAS",
-    "postcode": "7331",
-    "count": 514,
-    "latitude": -40.7634,
-    "longitude": 145.29
-  },
-  {
     "state": "WA",
     "postcode": "6423",
     "count": 514,
     "latitude": -31.2845,
     "longitude": 118.6977
+  },
+  {
+    "state": "TAS",
+    "postcode": "7331",
+    "count": 514,
+    "latitude": -40.7634,
+    "longitude": 145.29
   },
   {
     "state": "VIC",
@@ -14539,18 +14539,18 @@
     "longitude": 115.8307
   },
   {
-    "state": "TAS",
-    "postcode": "7258",
-    "count": 488,
-    "latitude": -41.5028,
-    "longitude": 147.2128
-  },
-  {
     "state": "VIC",
     "postcode": "3361",
     "count": 488,
     "latitude": -37.6938,
     "longitude": 143.3514
+  },
+  {
+    "state": "TAS",
+    "postcode": "7258",
+    "count": 488,
+    "latitude": -41.5028,
+    "longitude": 147.2128
   },
   {
     "state": "NT",
@@ -14602,18 +14602,18 @@
     "longitude": 116.0559
   },
   {
-    "state": "SA",
-    "postcode": "5265",
-    "count": 480,
-    "latitude": -35.7088,
-    "longitude": 139.8268
-  },
-  {
     "state": "VIC",
     "postcode": "3759",
     "count": 480,
     "latitude": -37.6419,
     "longitude": 145.2429
+  },
+  {
+    "state": "SA",
+    "postcode": "5265",
+    "count": 480,
+    "latitude": -35.7088,
+    "longitude": 139.8268
   },
   {
     "state": "WA",
@@ -14623,18 +14623,18 @@
     "longitude": 119.1999
   },
   {
-    "state": "WA",
-    "postcode": "6226",
-    "count": 476,
-    "latitude": -33.2922,
-    "longitude": 115.8009
-  },
-  {
     "state": "VIC",
     "postcode": "3813",
     "count": 476,
     "latitude": -38.0691,
     "longitude": 145.6245
+  },
+  {
+    "state": "WA",
+    "postcode": "6226",
+    "count": 476,
+    "latitude": -33.2922,
+    "longitude": 115.8009
   },
   {
     "state": "NSW",
@@ -14673,17 +14673,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3659",
-    "count": 469,
-    "latitude": -37.1028,
-    "longitude": 145.099
-  },
-  {
-    "state": "VIC",
     "postcode": "3292",
     "count": 469,
     "latitude": -38.0436,
     "longitude": 141.0091
+  },
+  {
+    "state": "VIC",
+    "postcode": "3659",
+    "count": 469,
+    "latitude": -37.1028,
+    "longitude": 145.099
   },
   {
     "state": "NSW",
@@ -14707,11 +14707,11 @@
     "longitude": 152.9596
   },
   {
-    "state": "WA",
-    "postcode": "6518",
+    "state": "VIC",
+    "postcode": "3822",
     "count": 466,
-    "latitude": -29.8399,
-    "longitude": 115.2069
+    "latitude": -38.1971,
+    "longitude": 146.0054
   },
   {
     "state": "WA",
@@ -14721,11 +14721,11 @@
     "longitude": 117.4339
   },
   {
-    "state": "VIC",
-    "postcode": "3822",
+    "state": "WA",
+    "postcode": "6518",
     "count": 466,
-    "latitude": -38.1971,
-    "longitude": 146.0054
+    "latitude": -29.8399,
+    "longitude": 115.2069
   },
   {
     "state": "QLD",
@@ -14749,13 +14749,6 @@
     "longitude": 145.7078
   },
   {
-    "state": "SA",
-    "postcode": "5654",
-    "count": 462,
-    "latitude": -32.9069,
-    "longitude": 135.1282
-  },
-  {
     "state": "QLD",
     "postcode": "4411",
     "count": 462,
@@ -14764,10 +14757,10 @@
   },
   {
     "state": "SA",
-    "postcode": "5321",
-    "count": 461,
-    "latitude": -34.0531,
-    "longitude": 139.7658
+    "postcode": "5654",
+    "count": 462,
+    "latitude": -32.9069,
+    "longitude": 135.1282
   },
   {
     "state": "NSW",
@@ -14775,6 +14768,13 @@
     "count": 461,
     "latitude": -31.2287,
     "longitude": 150.6762
+  },
+  {
+    "state": "SA",
+    "postcode": "5321",
+    "count": 461,
+    "latitude": -34.0531,
+    "longitude": 139.7658
   },
   {
     "state": "VIC",
@@ -14791,18 +14791,18 @@
     "longitude": 147.8479
   },
   {
-    "state": "WA",
-    "postcode": "6396",
-    "count": 456,
-    "latitude": -34.35,
-    "longitude": 117.0293
-  },
-  {
     "state": "QLD",
     "postcode": "4407",
     "count": 456,
     "latitude": -27.544,
     "longitude": 151.1791
+  },
+  {
+    "state": "WA",
+    "postcode": "6396",
+    "count": 456,
+    "latitude": -34.35,
+    "longitude": 117.0293
   },
   {
     "state": "SA",
@@ -14826,18 +14826,18 @@
     "longitude": 136.34
   },
   {
-    "state": "TAS",
-    "postcode": "7012",
-    "count": 454,
-    "latitude": -42.8373,
-    "longitude": 147.1877
-  },
-  {
     "state": "SA",
     "postcode": "5730",
     "count": 454,
     "latitude": -30.9712,
     "longitude": 138.5537
+  },
+  {
+    "state": "TAS",
+    "postcode": "7012",
+    "count": 454,
+    "latitude": -42.8373,
+    "longitude": 147.1877
   },
   {
     "state": "QLD",
@@ -14875,6 +14875,13 @@
     "longitude": 136.2017
   },
   {
+    "state": "NT",
+    "postcode": "0838",
+    "count": 450,
+    "latitude": -12.7201,
+    "longitude": 131.0161
+  },
+  {
     "state": "QLD",
     "postcode": "4859",
     "count": 450,
@@ -14882,11 +14889,11 @@
     "longitude": 145.9894
   },
   {
-    "state": "NT",
-    "postcode": "0838",
-    "count": 450,
-    "latitude": -12.7201,
-    "longitude": 131.0161
+    "state": "NSW",
+    "postcode": "2563",
+    "count": 449,
+    "latitude": -34.1033,
+    "longitude": 150.7571
   },
   {
     "state": "QLD",
@@ -14897,10 +14904,10 @@
   },
   {
     "state": "NSW",
-    "postcode": "2563",
-    "count": 449,
-    "latitude": -34.1033,
-    "longitude": 150.7571
+    "postcode": "2868",
+    "count": 448,
+    "latitude": -32.7444,
+    "longitude": 148.6337
   },
   {
     "state": "WA",
@@ -14910,18 +14917,11 @@
     "longitude": 116.3122
   },
   {
-    "state": "NSW",
-    "postcode": "2868",
-    "count": 448,
-    "latitude": -32.7444,
-    "longitude": 148.6337
-  },
-  {
-    "state": "TAS",
-    "postcode": "7178",
+    "state": "VIC",
+    "postcode": "3792",
     "count": 447,
-    "latitude": -42.9568,
-    "longitude": 147.8495
+    "latitude": -37.8896,
+    "longitude": 145.3959
   },
   {
     "state": "SA",
@@ -14931,11 +14931,11 @@
     "longitude": 138.9282
   },
   {
-    "state": "VIC",
-    "postcode": "3792",
+    "state": "TAS",
+    "postcode": "7178",
     "count": 447,
-    "latitude": -37.8896,
-    "longitude": 145.3959
+    "latitude": -42.9568,
+    "longitude": 147.8495
   },
   {
     "state": "VIC",
@@ -14943,6 +14943,20 @@
     "count": 446,
     "latitude": -36.1353,
     "longitude": 141.9869
+  },
+  {
+    "state": "NSW",
+    "postcode": "2733",
+    "count": 445,
+    "latitude": -35.1067,
+    "longitude": 144.0587
+  },
+  {
+    "state": "VIC",
+    "postcode": "3567",
+    "count": 445,
+    "latitude": -35.9011,
+    "longitude": 144.2906
   },
   {
     "state": "QLD",
@@ -14957,20 +14971,6 @@
     "count": 445,
     "latitude": -24.4782,
     "longitude": 144.3078
-  },
-  {
-    "state": "VIC",
-    "postcode": "3567",
-    "count": 445,
-    "latitude": -35.9011,
-    "longitude": 144.2906
-  },
-  {
-    "state": "NSW",
-    "postcode": "2733",
-    "count": 445,
-    "latitude": -35.1067,
-    "longitude": 144.0587
   },
   {
     "state": "QLD",
@@ -15050,18 +15050,18 @@
     "longitude": 145.136
   },
   {
-    "state": "NSW",
-    "postcode": "2878",
-    "count": 430,
-    "latitude": -32.8855,
-    "longitude": 144.2875
-  },
-  {
     "state": "NT",
     "postcode": "0841",
     "count": 430,
     "latitude": -12.8076,
     "longitude": 130.9667
+  },
+  {
+    "state": "NSW",
+    "postcode": "2878",
+    "count": 430,
+    "latitude": -32.8855,
+    "longitude": 144.2875
   },
   {
     "state": "TAS",
@@ -15141,13 +15141,6 @@
     "longitude": 145.7539
   },
   {
-    "state": "TAS",
-    "postcode": "7254",
-    "count": 414,
-    "latitude": -41.1174,
-    "longitude": 147.2001
-  },
-  {
     "state": "NSW",
     "postcode": "2399",
     "count": 414,
@@ -15160,6 +15153,13 @@
     "count": 414,
     "latitude": -38.7282,
     "longitude": 143.4143
+  },
+  {
+    "state": "TAS",
+    "postcode": "7254",
+    "count": 414,
+    "latitude": -41.1174,
+    "longitude": 147.2001
   },
   {
     "state": "WA",
@@ -15197,6 +15197,13 @@
     "longitude": 148.9136
   },
   {
+    "state": "VIC",
+    "postcode": "3635",
+    "count": 406,
+    "latitude": -36.155,
+    "longitude": 145.3852
+  },
+  {
     "state": "QLD",
     "postcode": "4374",
     "count": 406,
@@ -15209,13 +15216,6 @@
     "count": 406,
     "latitude": -36.3588,
     "longitude": 140.9036
-  },
-  {
-    "state": "VIC",
-    "postcode": "3635",
-    "count": 406,
-    "latitude": -36.155,
-    "longitude": 145.3852
   },
   {
     "state": "VIC",
@@ -15232,18 +15232,18 @@
     "longitude": 147.7563
   },
   {
-    "state": "TAS",
-    "postcode": "7023",
-    "count": 404,
-    "latitude": -42.9902,
-    "longitude": 147.4048
-  },
-  {
     "state": "QLD",
     "postcode": "4694",
     "count": 404,
     "latitude": -23.8078,
     "longitude": 151.112
+  },
+  {
+    "state": "TAS",
+    "postcode": "7023",
+    "count": 404,
+    "latitude": -42.9902,
+    "longitude": 147.4048
   },
   {
     "state": "SA",
@@ -15253,18 +15253,18 @@
     "longitude": 138.7275
   },
   {
-    "state": "QLD",
-    "postcode": "4404",
-    "count": 402,
-    "latitude": -27.2467,
-    "longitude": 151.4632
-  },
-  {
     "state": "VIC",
     "postcode": "3388",
     "count": 402,
     "latitude": -36.6284,
     "longitude": 142.6518
+  },
+  {
+    "state": "QLD",
+    "postcode": "4404",
+    "count": 402,
+    "latitude": -27.2467,
+    "longitude": 151.4632
   },
   {
     "state": "TAS",
@@ -15309,6 +15309,13 @@
     "longitude": 147.8158
   },
   {
+    "state": "NSW",
+    "postcode": "2626",
+    "count": 392,
+    "latitude": -35.9319,
+    "longitude": 149.1549
+  },
+  {
     "state": "VIC",
     "postcode": "3725",
     "count": 392,
@@ -15328,13 +15335,6 @@
     "count": 392,
     "latitude": -21.1342,
     "longitude": 148.5095
-  },
-  {
-    "state": "NSW",
-    "postcode": "2626",
-    "count": 392,
-    "latitude": -35.9319,
-    "longitude": 149.1549
   },
   {
     "state": "SA",
@@ -15372,18 +15372,18 @@
     "longitude": 151.7193
   },
   {
-    "state": "SA",
-    "postcode": "5332",
-    "count": 387,
-    "latitude": -34.2921,
-    "longitude": 140.3511
-  },
-  {
     "state": "VIC",
     "postcode": "3586",
     "count": 387,
     "latitude": -35.2979,
     "longitude": 143.554
+  },
+  {
+    "state": "SA",
+    "postcode": "5332",
+    "count": 387,
+    "latitude": -34.2921,
+    "longitude": 140.3511
   },
   {
     "state": "WA",
@@ -15414,13 +15414,6 @@
     "longitude": 142.8918
   },
   {
-    "state": "WA",
-    "postcode": "6072",
-    "count": 383,
-    "latitude": -31.9052,
-    "longitude": 116.1351
-  },
-  {
     "state": "VIC",
     "postcode": "3965",
     "count": 383,
@@ -15428,11 +15421,11 @@
     "longitude": 146.4619
   },
   {
-    "state": "QLD",
-    "postcode": "4378",
-    "count": 382,
-    "latitude": -28.6168,
-    "longitude": 151.9488
+    "state": "WA",
+    "postcode": "6072",
+    "count": 383,
+    "latitude": -31.9052,
+    "longitude": 116.1351
   },
   {
     "state": "NT",
@@ -15447,6 +15440,13 @@
     "count": 382,
     "latitude": -28.9167,
     "longitude": 149.6097
+  },
+  {
+    "state": "QLD",
+    "postcode": "4378",
+    "count": 382,
+    "latitude": -28.6168,
+    "longitude": 151.9488
   },
   {
     "state": "VIC",
@@ -15470,18 +15470,18 @@
     "longitude": 147.2296
   },
   {
-    "state": "VIC",
-    "postcode": "3494",
-    "count": 379,
-    "latitude": -34.4863,
-    "longitude": 142.3232
-  },
-  {
     "state": "NSW",
     "postcode": "2633",
     "count": 379,
     "latitude": -37.0205,
     "longitude": 148.9232
+  },
+  {
+    "state": "VIC",
+    "postcode": "3494",
+    "count": 379,
+    "latitude": -34.4863,
+    "longitude": 142.3232
   },
   {
     "state": "WA",
@@ -15498,18 +15498,18 @@
     "longitude": 115.4693
   },
   {
-    "state": "VIC",
-    "postcode": "3597",
-    "count": 377,
-    "latitude": -34.9744,
-    "longitude": 143.2594
-  },
-  {
     "state": "NSW",
     "postcode": "2797",
     "count": 377,
     "latitude": -33.6863,
     "longitude": 149.0292
+  },
+  {
+    "state": "VIC",
+    "postcode": "3597",
+    "count": 377,
+    "latitude": -34.9744,
+    "longitude": 143.2594
   },
   {
     "state": "VIC",
@@ -15603,13 +15603,6 @@
     "longitude": 150.849
   },
   {
-    "state": "OT",
-    "postcode": "6799",
-    "count": 364,
-    "latitude": -12.1396,
-    "longitude": 96.8762
-  },
-  {
     "state": "WA",
     "postcode": "6507",
     "count": 364,
@@ -15617,11 +15610,11 @@
     "longitude": 115.7009
   },
   {
-    "state": "QLD",
-    "postcode": "4712",
-    "count": 361,
-    "latitude": -23.7204,
-    "longitude": 149.6764
+    "state": "OT",
+    "postcode": "6799",
+    "count": 364,
+    "latitude": -12.1396,
+    "longitude": 96.8762
   },
   {
     "state": "NSW",
@@ -15631,25 +15624,18 @@
     "longitude": 148.6269
   },
   {
+    "state": "QLD",
+    "postcode": "4712",
+    "count": 361,
+    "latitude": -23.7204,
+    "longitude": 149.6764
+  },
+  {
     "state": "WA",
     "postcode": "6760",
     "count": 358,
     "latitude": -21.1569,
     "longitude": 119.7279
-  },
-  {
-    "state": "VIC",
-    "postcode": "3637",
-    "count": 356,
-    "latitude": -36.0157,
-    "longitude": 145.3103
-  },
-  {
-    "state": "NSW",
-    "postcode": "2846",
-    "count": 356,
-    "latitude": -33.13,
-    "longitude": 150.0839
   },
   {
     "state": "NSW",
@@ -15659,11 +15645,25 @@
     "longitude": 148.9725
   },
   {
-    "state": "QLD",
-    "postcode": "4468",
+    "state": "NSW",
+    "postcode": "2846",
+    "count": 356,
+    "latitude": -33.13,
+    "longitude": 150.0839
+  },
+  {
+    "state": "VIC",
+    "postcode": "3637",
+    "count": 356,
+    "latitude": -36.0157,
+    "longitude": 145.3103
+  },
+  {
+    "state": "NT",
+    "postcode": "0845",
     "count": 355,
-    "latitude": -26.4385,
-    "longitude": 147.0898
+    "latitude": -13.0478,
+    "longitude": 131.0316
   },
   {
     "state": "NSW",
@@ -15673,11 +15673,11 @@
     "longitude": 151.9016
   },
   {
-    "state": "NT",
-    "postcode": "0845",
+    "state": "QLD",
+    "postcode": "4468",
     "count": 355,
-    "latitude": -13.0478,
-    "longitude": 131.0316
+    "latitude": -26.4385,
+    "longitude": 147.0898
   },
   {
     "state": "VIC",
@@ -15701,13 +15701,6 @@
     "longitude": 117.5319
   },
   {
-    "state": "WA",
-    "postcode": "6515",
-    "count": 352,
-    "latitude": -29.905,
-    "longitude": 116.0187
-  },
-  {
     "state": "VIC",
     "postcode": "3407",
     "count": 352,
@@ -15716,10 +15709,10 @@
   },
   {
     "state": "WA",
-    "postcode": "6484",
-    "count": 351,
-    "latitude": -30.9765,
-    "longitude": 119.112
+    "postcode": "6515",
+    "count": 352,
+    "latitude": -29.905,
+    "longitude": 116.0187
   },
   {
     "state": "VIC",
@@ -15727,6 +15720,13 @@
     "count": 351,
     "latitude": -37.7535,
     "longitude": 144.0539
+  },
+  {
+    "state": "WA",
+    "postcode": "6484",
+    "count": 351,
+    "latitude": -30.9765,
+    "longitude": 119.112
   },
   {
     "state": "NSW",
@@ -15750,18 +15750,18 @@
     "longitude": 120.6902
   },
   {
-    "state": "VIC",
-    "postcode": "3670",
-    "count": 349,
-    "latitude": -36.6108,
-    "longitude": 145.8716
-  },
-  {
     "state": "NSW",
     "postcode": "2490",
     "count": 349,
     "latitude": -28.271,
     "longitude": 153.4621
+  },
+  {
+    "state": "VIC",
+    "postcode": "3670",
+    "count": 349,
+    "latitude": -36.6108,
+    "longitude": 145.8716
   },
   {
     "state": "WA",
@@ -15799,11 +15799,11 @@
     "longitude": 148.2692
   },
   {
-    "state": "WA",
-    "postcode": "6477",
+    "state": "VIC",
+    "postcode": "3835",
     "count": 343,
-    "latitude": -30.8044,
-    "longitude": 117.8759
+    "latitude": -38.2948,
+    "longitude": 146.172
   },
   {
     "state": "SA",
@@ -15813,11 +15813,11 @@
     "longitude": 139.1866
   },
   {
-    "state": "VIC",
-    "postcode": "3835",
+    "state": "WA",
+    "postcode": "6477",
     "count": 343,
-    "latitude": -38.2948,
-    "longitude": 146.172
+    "latitude": -30.8044,
+    "longitude": 117.8759
   },
   {
     "state": "WA",
@@ -15834,13 +15834,6 @@
     "longitude": 138.7323
   },
   {
-    "state": "WA",
-    "postcode": "6359",
-    "count": 339,
-    "latitude": -32.4527,
-    "longitude": 118.9523
-  },
-  {
     "state": "NSW",
     "postcode": "2725",
     "count": 339,
@@ -15855,11 +15848,11 @@
     "longitude": 143.6676
   },
   {
-    "state": "VIC",
-    "postcode": "3865",
-    "count": 338,
-    "latitude": -37.8014,
-    "longitude": 147.4575
+    "state": "WA",
+    "postcode": "6359",
+    "count": 339,
+    "latitude": -32.4527,
+    "longitude": 118.9523
   },
   {
     "state": "VIC",
@@ -15867,6 +15860,13 @@
     "count": 338,
     "latitude": -35.1699,
     "longitude": 143.3755
+  },
+  {
+    "state": "VIC",
+    "postcode": "3865",
+    "count": 338,
+    "latitude": -37.8014,
+    "longitude": 147.4575
   },
   {
     "state": "VIC",
@@ -15898,17 +15898,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3902",
-    "count": 334,
-    "latitude": -37.8155,
-    "longitude": 147.8266
-  },
-  {
-    "state": "VIC",
     "postcode": "3886",
     "count": 334,
     "latitude": -37.7433,
     "longitude": 148.4493
+  },
+  {
+    "state": "VIC",
+    "postcode": "3902",
+    "count": 334,
+    "latitude": -37.8155,
+    "longitude": 147.8266
   },
   {
     "state": "TAS",
@@ -15919,17 +15919,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3682",
-    "count": 333,
-    "latitude": -36.173,
-    "longitude": 146.4331
-  },
-  {
-    "state": "VIC",
     "postcode": "3544",
     "count": 333,
     "latitude": -35.47,
     "longitude": 143.2487
+  },
+  {
+    "state": "VIC",
+    "postcode": "3682",
+    "count": 333,
+    "latitude": -36.173,
+    "longitude": 146.4331
   },
   {
     "state": "SA",
@@ -15939,11 +15939,11 @@
     "longitude": 138.745
   },
   {
-    "state": "SA",
-    "postcode": "5411",
+    "state": "VIC",
+    "postcode": "3744",
     "count": 328,
-    "latitude": -34.268,
-    "longitude": 138.7689
+    "latitude": -36.7751,
+    "longitude": 146.9815
   },
   {
     "state": "QLD",
@@ -15953,11 +15953,11 @@
     "longitude": 139.6566
   },
   {
-    "state": "VIC",
-    "postcode": "3744",
+    "state": "SA",
+    "postcode": "5411",
     "count": 328,
-    "latitude": -36.7751,
-    "longitude": 146.9815
+    "latitude": -34.268,
+    "longitude": 138.7689
   },
   {
     "state": "VIC",
@@ -16065,18 +16065,18 @@
     "longitude": 143.5191
   },
   {
-    "state": "WA",
-    "postcode": "6161",
-    "count": 310,
-    "latitude": -32.0039,
-    "longitude": 115.5178
-  },
-  {
     "state": "SA",
     "postcode": "5410",
     "count": 310,
     "latitude": -34.3393,
     "longitude": 138.7398
+  },
+  {
+    "state": "WA",
+    "postcode": "6161",
+    "count": 310,
+    "latitude": -32.0039,
+    "longitude": 115.5178
   },
   {
     "state": "SA",
@@ -16107,13 +16107,6 @@
     "longitude": 141.7904
   },
   {
-    "state": "VIC",
-    "postcode": "3624",
-    "count": 306,
-    "latitude": -36.3969,
-    "longitude": 144.9721
-  },
-  {
     "state": "NT",
     "postcode": "0862",
     "count": 306,
@@ -16121,11 +16114,11 @@
     "longitude": 133.6933
   },
   {
-    "state": "WA",
-    "postcode": "6445",
-    "count": 304,
-    "latitude": -32.9521,
-    "longitude": 121.6485
+    "state": "VIC",
+    "postcode": "3624",
+    "count": 306,
+    "latitude": -36.3969,
+    "longitude": 144.9721
   },
   {
     "state": "QLD",
@@ -16135,6 +16128,13 @@
     "longitude": 149.7657
   },
   {
+    "state": "WA",
+    "postcode": "6445",
+    "count": 304,
+    "latitude": -32.9521,
+    "longitude": 121.6485
+  },
+  {
     "state": "SA",
     "postcode": "5111",
     "count": 303,
@@ -16142,18 +16142,18 @@
     "longitude": 138.6377
   },
   {
-    "state": "SA",
-    "postcode": "5331",
-    "count": 302,
-    "latitude": -34.223,
-    "longitude": 140.3447
-  },
-  {
     "state": "VIC",
     "postcode": "3665",
     "count": 302,
     "latitude": -36.8171,
     "longitude": 145.394
+  },
+  {
+    "state": "SA",
+    "postcode": "5331",
+    "count": 302,
+    "latitude": -34.223,
+    "longitude": 140.3447
   },
   {
     "state": "QLD",
@@ -16191,18 +16191,18 @@
     "longitude": 147.3649
   },
   {
-    "state": "SA",
-    "postcode": "5350",
-    "count": 295,
-    "latitude": -34.587,
-    "longitude": 138.8343
-  },
-  {
     "state": "QLD",
     "postcode": "4412",
     "count": 295,
     "latitude": -26.8546,
     "longitude": 150.8083
+  },
+  {
+    "state": "SA",
+    "postcode": "5350",
+    "count": 295,
+    "latitude": -34.587,
+    "longitude": 138.8343
   },
   {
     "state": "SA",
@@ -16212,18 +16212,11 @@
     "longitude": 140.4093
   },
   {
-    "state": "WA",
-    "postcode": "6569",
+    "state": "NSW",
+    "postcode": "2721",
     "count": 292,
-    "latitude": -31.0832,
-    "longitude": 116.4437
-  },
-  {
-    "state": "WA",
-    "postcode": "6341",
-    "count": 292,
-    "latitude": -33.5511,
-    "longitude": 118.1544
+    "latitude": -34.0131,
+    "longitude": 147.7601
   },
   {
     "state": "VIC",
@@ -16233,11 +16226,18 @@
     "longitude": 144.1869
   },
   {
-    "state": "NSW",
-    "postcode": "2721",
+    "state": "WA",
+    "postcode": "6341",
     "count": 292,
-    "latitude": -34.0131,
-    "longitude": 147.7601
+    "latitude": -33.5511,
+    "longitude": 118.1544
+  },
+  {
+    "state": "WA",
+    "postcode": "6569",
+    "count": 292,
+    "latitude": -31.0832,
+    "longitude": 116.4437
   },
   {
     "state": "QLD",
@@ -16248,17 +16248,17 @@
   },
   {
     "state": "WA",
-    "postcode": "6568",
-    "count": 290,
-    "latitude": -31.273,
-    "longitude": 116.5037
-  },
-  {
-    "state": "WA",
     "postcode": "6448",
     "count": 290,
     "latitude": -33.6373,
     "longitude": 121.8194
+  },
+  {
+    "state": "WA",
+    "postcode": "6568",
+    "count": 290,
+    "latitude": -31.273,
+    "longitude": 116.5037
   },
   {
     "state": "SA",
@@ -16282,13 +16282,6 @@
     "longitude": 118.1224
   },
   {
-    "state": "WA",
-    "postcode": "6033",
-    "count": 287,
-    "latitude": -31.5987,
-    "longitude": 115.7179
-  },
-  {
     "state": "QLD",
     "postcode": "4706",
     "count": 287,
@@ -16301,6 +16294,13 @@
     "count": 287,
     "latitude": -29.4874,
     "longitude": 138.1223
+  },
+  {
+    "state": "WA",
+    "postcode": "6033",
+    "count": 287,
+    "latitude": -31.5987,
+    "longitude": 115.7179
   },
   {
     "state": "WA",
@@ -16485,18 +16485,18 @@
     "longitude": 148.9788
   },
   {
-    "state": "QLD",
-    "postcode": "4697",
-    "count": 259,
-    "latitude": -23.7653,
-    "longitude": 150.8041
-  },
-  {
     "state": "VIC",
     "postcode": "3276",
     "count": 259,
     "latitude": -38.1539,
     "longitude": 142.4487
+  },
+  {
+    "state": "QLD",
+    "postcode": "4697",
+    "count": 259,
+    "latitude": -23.7653,
+    "longitude": 150.8041
   },
   {
     "state": "TAS",
@@ -16528,17 +16528,17 @@
   },
   {
     "state": "WA",
-    "postcode": "6528",
-    "count": 250,
-    "latitude": -28.9646,
-    "longitude": 114.8164
-  },
-  {
-    "state": "WA",
     "postcode": "6343",
     "count": 250,
     "latitude": -33.5392,
     "longitude": 118.6008
+  },
+  {
+    "state": "WA",
+    "postcode": "6528",
+    "count": 250,
+    "latitude": -28.9646,
+    "longitude": 114.8164
   },
   {
     "state": "NT",
@@ -16555,13 +16555,6 @@
     "longitude": 146.0358
   },
   {
-    "state": "SA",
-    "postcode": "5650",
-    "count": 247,
-    "latitude": -33.2316,
-    "longitude": 135.7103
-  },
-  {
     "state": "VIC",
     "postcode": "3287",
     "count": 247,
@@ -16570,10 +16563,10 @@
   },
   {
     "state": "SA",
-    "postcode": "5470",
-    "count": 246,
-    "latitude": -33.563,
-    "longitude": 138.4523
+    "postcode": "5650",
+    "count": 247,
+    "latitude": -33.2316,
+    "longitude": 135.7103
   },
   {
     "state": "SA",
@@ -16583,11 +16576,11 @@
     "longitude": 140.8455
   },
   {
-    "state": "QLD",
-    "postcode": "4736",
-    "count": 244,
-    "latitude": -24.8536,
-    "longitude": 143.0812
+    "state": "SA",
+    "postcode": "5470",
+    "count": 246,
+    "latitude": -33.563,
+    "longitude": 138.4523
   },
   {
     "state": "VIC",
@@ -16598,17 +16591,17 @@
   },
   {
     "state": "QLD",
+    "postcode": "4736",
+    "count": 244,
+    "latitude": -24.8536,
+    "longitude": 143.0812
+  },
+  {
+    "state": "QLD",
     "postcode": "4376",
     "count": 243,
     "latitude": -28.5506,
     "longitude": 151.9416
-  },
-  {
-    "state": "VIC",
-    "postcode": "3310",
-    "count": 242,
-    "latitude": -37.7206,
-    "longitude": 141.5587
   },
   {
     "state": "NSW",
@@ -16616,6 +16609,13 @@
     "count": 242,
     "latitude": -29.4211,
     "longitude": 153.2443
+  },
+  {
+    "state": "VIC",
+    "postcode": "3310",
+    "count": 242,
+    "latitude": -37.7206,
+    "longitude": 141.5587
   },
   {
     "state": "NSW",
@@ -16660,18 +16660,18 @@
     "longitude": 150.3338
   },
   {
-    "state": "QLD",
-    "postcode": "4426",
-    "count": 236,
-    "latitude": -26.5647,
-    "longitude": 149.6371
-  },
-  {
     "state": "VIC",
     "postcode": "3322",
     "count": 236,
     "latitude": -38.034,
     "longitude": 143.6376
+  },
+  {
+    "state": "QLD",
+    "postcode": "4426",
+    "count": 236,
+    "latitude": -26.5647,
+    "longitude": 149.6371
   },
   {
     "state": "NSW",
@@ -16695,6 +16695,13 @@
     "longitude": 116.7718
   },
   {
+    "state": "VIC",
+    "postcode": "3303",
+    "count": 231,
+    "latitude": -37.9561,
+    "longitude": 141.7397
+  },
+  {
     "state": "SA",
     "postcode": "5632",
     "count": 231,
@@ -16707,13 +16714,6 @@
     "count": 231,
     "latitude": -34.9438,
     "longitude": 138.5247
-  },
-  {
-    "state": "VIC",
-    "postcode": "3303",
-    "count": 231,
-    "latitude": -37.9561,
-    "longitude": 141.7397
   },
   {
     "state": "SA",
@@ -16786,18 +16786,18 @@
     "longitude": 145.6223
   },
   {
-    "state": "WA",
-    "postcode": "6635",
-    "count": 221,
-    "latitude": -28.3282,
-    "longitude": 116.6951
-  },
-  {
     "state": "VIC",
     "postcode": "3468",
     "count": 221,
     "latitude": -37.1974,
     "longitude": 143.3994
+  },
+  {
+    "state": "WA",
+    "postcode": "6635",
+    "count": 221,
+    "latitude": -28.3282,
+    "longitude": 116.6951
   },
   {
     "state": "SA",
@@ -16828,18 +16828,18 @@
     "longitude": 148.3272
   },
   {
-    "state": "QLD",
-    "postcode": "4481",
-    "count": 216,
-    "latitude": -25.4189,
-    "longitude": 142.5511
-  },
-  {
     "state": "VIC",
     "postcode": "3622",
     "count": 216,
     "latitude": -36.2308,
     "longitude": 144.8574
+  },
+  {
+    "state": "QLD",
+    "postcode": "4481",
+    "count": 216,
+    "latitude": -25.4189,
+    "longitude": 142.5511
   },
   {
     "state": "SA",
@@ -16850,17 +16850,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3921",
-    "count": 215,
-    "latitude": -38.3654,
-    "longitude": 145.3256
-  },
-  {
-    "state": "VIC",
     "postcode": "3857",
     "count": 215,
     "latitude": -38.0129,
     "longitude": 146.6848
+  },
+  {
+    "state": "VIC",
+    "postcode": "3921",
+    "count": 215,
+    "latitude": -38.3654,
+    "longitude": 145.3256
   },
   {
     "state": "SA",
@@ -16884,18 +16884,18 @@
     "longitude": 148.1968
   },
   {
-    "state": "SA",
-    "postcode": "5140",
-    "count": 212,
-    "latitude": -34.9516,
-    "longitude": 138.6938
-  },
-  {
     "state": "VIC",
     "postcode": "3946",
     "count": 212,
     "latitude": -38.4288,
     "longitude": 145.7431
+  },
+  {
+    "state": "SA",
+    "postcode": "5140",
+    "count": 212,
+    "latitude": -34.9516,
+    "longitude": 138.6938
   },
   {
     "state": "WA",
@@ -16905,18 +16905,18 @@
     "longitude": 118.5235
   },
   {
-    "state": "SA",
-    "postcode": "5132",
-    "count": 211,
-    "latitude": -34.8436,
-    "longitude": 138.7744
-  },
-  {
     "state": "VIC",
     "postcode": "3588",
     "count": 211,
     "latitude": -35.2922,
     "longitude": 143.4577
+  },
+  {
+    "state": "SA",
+    "postcode": "5132",
+    "count": 211,
+    "latitude": -34.8436,
+    "longitude": 138.7744
   },
   {
     "state": "VIC",
@@ -17045,13 +17045,6 @@
     "longitude": 147.6493
   },
   {
-    "state": "VIC",
-    "postcode": "3891",
-    "count": 194,
-    "latitude": -37.4623,
-    "longitude": 149.6068
-  },
-  {
     "state": "NSW",
     "postcode": "2898",
     "count": 194,
@@ -17064,6 +17057,13 @@
     "count": 194,
     "latitude": -36.1511,
     "longitude": 142.8404
+  },
+  {
+    "state": "VIC",
+    "postcode": "3891",
+    "count": 194,
+    "latitude": -37.4623,
+    "longitude": 149.6068
   },
   {
     "state": "NSW",
@@ -17080,6 +17080,13 @@
     "longitude": 145.9689
   },
   {
+    "state": "NSW",
+    "postcode": "2624",
+    "count": 192,
+    "latitude": -36.4022,
+    "longitude": 148.4067
+  },
+  {
     "state": "SA",
     "postcode": "5138",
     "count": 192,
@@ -17092,13 +17099,6 @@
     "count": 192,
     "latitude": -32.4797,
     "longitude": 115.7955
-  },
-  {
-    "state": "NSW",
-    "postcode": "2624",
-    "count": 192,
-    "latitude": -36.4022,
-    "longitude": 148.4067
   },
   {
     "state": "QLD",
@@ -17122,18 +17122,18 @@
     "longitude": 144.7837
   },
   {
-    "state": "WA",
-    "postcode": "6327",
-    "count": 188,
-    "latitude": -34.8886,
-    "longitude": 117.6582
-  },
-  {
     "state": "QLD",
     "postcode": "4494",
     "count": 188,
     "latitude": -28.2968,
     "longitude": 149.6411
+  },
+  {
+    "state": "WA",
+    "postcode": "6327",
+    "count": 188,
+    "latitude": -34.8886,
+    "longitude": 117.6582
   },
   {
     "state": "SA",
@@ -17143,18 +17143,18 @@
     "longitude": 138.7299
   },
   {
-    "state": "SA",
-    "postcode": "5655",
-    "count": 182,
-    "latitude": -32.6752,
-    "longitude": 134.9032
-  },
-  {
     "state": "QLD",
     "postcode": "4498",
     "count": 182,
     "latitude": -28.4162,
     "longitude": 149.8687
+  },
+  {
+    "state": "SA",
+    "postcode": "5655",
+    "count": 182,
+    "latitude": -32.6752,
+    "longitude": 134.9032
   },
   {
     "state": "WA",
@@ -17179,17 +17179,17 @@
   },
   {
     "state": "WA",
-    "postcode": "6489",
-    "count": 176,
-    "latitude": -31.1164,
-    "longitude": 117.9206
-  },
-  {
-    "state": "WA",
     "postcode": "6221",
     "count": 176,
     "latitude": -33.122,
     "longitude": 115.8793
+  },
+  {
+    "state": "WA",
+    "postcode": "6489",
+    "count": 176,
+    "latitude": -31.1164,
+    "longitude": 117.9206
   },
   {
     "state": "SA",
@@ -17206,13 +17206,6 @@
     "longitude": 143.7071
   },
   {
-    "state": "SA",
-    "postcode": "5133",
-    "count": 171,
-    "latitude": -34.8109,
-    "longitude": 138.7864
-  },
-  {
     "state": "VIC",
     "postcode": "3705",
     "count": 171,
@@ -17225,6 +17218,13 @@
     "count": 171,
     "latitude": -37.6232,
     "longitude": 145.2858
+  },
+  {
+    "state": "SA",
+    "postcode": "5133",
+    "count": 171,
+    "latitude": -34.8109,
+    "longitude": 138.7864
   },
   {
     "state": "WA",
@@ -17256,17 +17256,17 @@
   },
   {
     "state": "VIC",
-    "postcode": "3562",
-    "count": 167,
-    "latitude": -36.016,
-    "longitude": 144.5313
-  },
-  {
-    "state": "VIC",
     "postcode": "3317",
     "count": 167,
     "latitude": -37.1591,
     "longitude": 141.598
+  },
+  {
+    "state": "VIC",
+    "postcode": "3562",
+    "count": 167,
+    "latitude": -36.016,
+    "longitude": 144.5313
   },
   {
     "state": "WA",
@@ -17276,18 +17276,18 @@
     "longitude": 117.0215
   },
   {
-    "state": "SA",
-    "postcode": "5734",
-    "count": 165,
-    "latitude": -27.4916,
-    "longitude": 135.439
-  },
-  {
     "state": "VIC",
     "postcode": "3278",
     "count": 165,
     "latitude": -38.2789,
     "longitude": 142.6126
+  },
+  {
+    "state": "SA",
+    "postcode": "5734",
+    "count": 165,
+    "latitude": -27.4916,
+    "longitude": 135.439
   },
   {
     "state": "WA",
@@ -17304,13 +17304,6 @@
     "longitude": 142.5248
   },
   {
-    "state": "WA",
-    "postcode": "6608",
-    "count": 162,
-    "latitude": -30.3944,
-    "longitude": 116.6695
-  },
-  {
     "state": "VIC",
     "postcode": "3391",
     "count": 162,
@@ -17323,6 +17316,13 @@
     "count": 162,
     "latitude": -36.7601,
     "longitude": 146.4141
+  },
+  {
+    "state": "WA",
+    "postcode": "6608",
+    "count": 162,
+    "latitude": -30.3944,
+    "longitude": 116.6695
   },
   {
     "state": "VIC",
@@ -17353,18 +17353,18 @@
     "longitude": 145.1161
   },
   {
-    "state": "WA",
-    "postcode": "6358",
-    "count": 158,
-    "latitude": -32.4667,
-    "longitude": 118.6872
-  },
-  {
     "state": "VIC",
     "postcode": "3789",
     "count": 158,
     "latitude": -37.8799,
     "longitude": 145.3627
+  },
+  {
+    "state": "WA",
+    "postcode": "6358",
+    "count": 158,
+    "latitude": -32.4667,
+    "longitude": 118.6872
   },
   {
     "state": "VIC",
@@ -17409,18 +17409,18 @@
     "longitude": 117.8504
   },
   {
-    "state": "WA",
-    "postcode": "6513",
-    "count": 152,
-    "latitude": -30.2729,
-    "longitude": 116.1016
-  },
-  {
     "state": "VIC",
     "postcode": "3271",
     "count": 152,
     "latitude": -37.9351,
     "longitude": 143.023
+  },
+  {
+    "state": "WA",
+    "postcode": "6513",
+    "count": 152,
+    "latitude": -30.2729,
+    "longitude": 116.1016
   },
   {
     "state": "VIC",
@@ -17445,13 +17445,6 @@
   },
   {
     "state": "TAS",
-    "postcode": "7187",
-    "count": 149,
-    "latitude": -43.0695,
-    "longitude": 147.8141
-  },
-  {
-    "state": "TAS",
     "postcode": "7175",
     "count": 149,
     "latitude": -42.8115,
@@ -17459,10 +17452,10 @@
   },
   {
     "state": "TAS",
-    "postcode": "7211",
-    "count": 147,
-    "latitude": -41.7917,
-    "longitude": 147.4033
+    "postcode": "7187",
+    "count": 149,
+    "latitude": -43.0695,
+    "longitude": 147.8141
   },
   {
     "state": "SA",
@@ -17470,6 +17463,13 @@
     "count": 147,
     "latitude": -33.03,
     "longitude": 138.7477
+  },
+  {
+    "state": "TAS",
+    "postcode": "7211",
+    "count": 147,
+    "latitude": -41.7917,
+    "longitude": 147.4033
   },
   {
     "state": "WA",
@@ -17486,18 +17486,18 @@
     "longitude": 141.2127
   },
   {
-    "state": "SA",
-    "postcode": "5653",
-    "count": 144,
-    "latitude": -32.9421,
-    "longitude": 135.2752
-  },
-  {
     "state": "QLD",
     "postcode": "4372",
     "count": 144,
     "latitude": -28.2967,
     "longitude": 152.2438
+  },
+  {
+    "state": "SA",
+    "postcode": "5653",
+    "count": 144,
+    "latitude": -32.9421,
+    "longitude": 135.2752
   },
   {
     "state": "SA",
@@ -17535,13 +17535,6 @@
     "longitude": 146.8556
   },
   {
-    "state": "TAS",
-    "postcode": "7466",
-    "count": 137,
-    "latitude": -42.0734,
-    "longitude": 145.5985
-  },
-  {
     "state": "WA",
     "postcode": "6504",
     "count": 137,
@@ -17549,18 +17542,18 @@
     "longitude": 116.0725
   },
   {
+    "state": "TAS",
+    "postcode": "7466",
+    "count": 137,
+    "latitude": -42.0734,
+    "longitude": 145.5985
+  },
+  {
     "state": "NSW",
     "postcode": "2555",
     "count": 135,
     "latitude": -33.8807,
     "longitude": 150.7549
-  },
-  {
-    "state": "QLD",
-    "postcode": "4489",
-    "count": 135,
-    "latitude": -27.25,
-    "longitude": 145.9956
   },
   {
     "state": "VIC",
@@ -17577,18 +17570,11 @@
     "longitude": 146.2775
   },
   {
-    "state": "VIC",
-    "postcode": "3530",
-    "count": 134,
-    "latitude": -35.721,
-    "longitude": 143.1166
-  },
-  {
-    "state": "VIC",
-    "postcode": "3279",
-    "count": 134,
-    "latitude": -38.2919,
-    "longitude": 142.5924
+    "state": "QLD",
+    "postcode": "4489",
+    "count": 135,
+    "latitude": -27.25,
+    "longitude": 145.9956
   },
   {
     "state": "NSW",
@@ -17598,11 +17584,18 @@
     "longitude": 148.9493
   },
   {
-    "state": "QLD",
-    "postcode": "4491",
-    "count": 132,
-    "latitude": -28.1742,
-    "longitude": 145.0323
+    "state": "VIC",
+    "postcode": "3279",
+    "count": 134,
+    "latitude": -38.2919,
+    "longitude": 142.5924
+  },
+  {
+    "state": "VIC",
+    "postcode": "3530",
+    "count": 134,
+    "latitude": -35.721,
+    "longitude": 143.1166
   },
   {
     "state": "VIC",
@@ -17612,6 +17605,13 @@
     "longitude": 143.0833
   },
   {
+    "state": "QLD",
+    "postcode": "4491",
+    "count": 132,
+    "latitude": -28.1742,
+    "longitude": 145.0323
+  },
+  {
     "state": "WA",
     "postcode": "6356",
     "count": 132,
@@ -17619,18 +17619,18 @@
     "longitude": 119.7365
   },
   {
-    "state": "WA",
-    "postcode": "6252",
-    "count": 131,
-    "latitude": -33.7464,
-    "longitude": 115.9476
-  },
-  {
     "state": "SA",
     "postcode": "5724",
     "count": 131,
     "latitude": -27.3024,
     "longitude": 133.6329
+  },
+  {
+    "state": "WA",
+    "postcode": "6252",
+    "count": 131,
+    "latitude": -33.7464,
+    "longitude": 115.9476
   },
   {
     "state": "QLD",
@@ -17676,10 +17676,10 @@
   },
   {
     "state": "WA",
-    "postcode": "6575",
+    "postcode": "6361",
     "count": 124,
-    "latitude": -30.4704,
-    "longitude": 116.3677
+    "latitude": -32.9528,
+    "longitude": 117.8212
   },
   {
     "state": "WA",
@@ -17690,10 +17690,10 @@
   },
   {
     "state": "WA",
-    "postcode": "6361",
+    "postcode": "6575",
     "count": 124,
-    "latitude": -32.9528,
-    "longitude": 117.8212
+    "latitude": -30.4704,
+    "longitude": 116.3677
   },
   {
     "state": "VIC",
@@ -17703,13 +17703,6 @@
     "longitude": 145.1664
   },
   {
-    "state": "WA",
-    "postcode": "6373",
-    "count": 123,
-    "latitude": -32.5029,
-    "longitude": 117.7404
-  },
-  {
     "state": "SA",
     "postcode": "5220",
     "count": 123,
@@ -17717,11 +17710,11 @@
     "longitude": 137.261
   },
   {
-    "state": "SA",
-    "postcode": "5630",
-    "count": 122,
-    "latitude": -34.4151,
-    "longitude": 135.6894
+    "state": "WA",
+    "postcode": "6373",
+    "count": 123,
+    "latitude": -32.5029,
+    "longitude": 117.7404
   },
   {
     "state": "NSW",
@@ -17729,6 +17722,13 @@
     "count": 122,
     "latitude": -29.7367,
     "longitude": 149.8271
+  },
+  {
+    "state": "SA",
+    "postcode": "5630",
+    "count": 122,
+    "latitude": -34.4151,
+    "longitude": 135.6894
   },
   {
     "state": "TAS",
@@ -17745,18 +17745,18 @@
     "longitude": 121.4745
   },
   {
-    "state": "WA",
-    "postcode": "6420",
-    "count": 119,
-    "latitude": -31.791,
-    "longitude": 118.5528
-  },
-  {
     "state": "QLD",
     "postcode": "4461",
     "count": 119,
     "latitude": -26.6026,
     "longitude": 148.3905
+  },
+  {
+    "state": "WA",
+    "postcode": "6420",
+    "count": 119,
+    "latitude": -31.791,
+    "longitude": 118.5528
   },
   {
     "state": "VIC",
@@ -17773,13 +17773,6 @@
     "longitude": 143.8187
   },
   {
-    "state": "WA",
-    "postcode": "6363",
-    "count": 115,
-    "latitude": -32.8869,
-    "longitude": 118.0194
-  },
-  {
     "state": "VIC",
     "postcode": "3738",
     "count": 115,
@@ -17787,18 +17780,25 @@
     "longitude": 146.7812
   },
   {
-    "state": "WA",
-    "postcode": "6505",
-    "count": 115,
-    "latitude": -31.1634,
-    "longitude": 116.1029
-  },
-  {
     "state": "SA",
     "postcode": "5651",
     "count": 115,
     "latitude": -33.1241,
     "longitude": 135.5965
+  },
+  {
+    "state": "WA",
+    "postcode": "6363",
+    "count": 115,
+    "latitude": -32.8869,
+    "longitude": 118.0194
+  },
+  {
+    "state": "WA",
+    "postcode": "6505",
+    "count": 115,
+    "latitude": -31.1634,
+    "longitude": 116.1029
   },
   {
     "state": "VIC",
@@ -17829,13 +17829,6 @@
     "longitude": 147.8009
   },
   {
-    "state": "WA",
-    "postcode": "6223",
-    "count": 110,
-    "latitude": -33.1839,
-    "longitude": 115.8494
-  },
-  {
     "state": "VIC",
     "postcode": "3433",
     "count": 110,
@@ -17844,17 +17837,10 @@
   },
   {
     "state": "WA",
-    "postcode": "6243",
-    "count": 107,
-    "latitude": -33.6947,
-    "longitude": 116.2382
-  },
-  {
-    "state": "VIC",
-    "postcode": "3967",
-    "count": 107,
-    "latitude": -38.6467,
-    "longitude": 146.5104
+    "postcode": "6223",
+    "count": 110,
+    "latitude": -33.1839,
+    "longitude": 115.8494
   },
   {
     "state": "VIC",
@@ -17864,18 +17850,25 @@
     "longitude": 143.5071
   },
   {
+    "state": "VIC",
+    "postcode": "3967",
+    "count": 107,
+    "latitude": -38.6467,
+    "longitude": 146.5104
+  },
+  {
+    "state": "WA",
+    "postcode": "6243",
+    "count": 107,
+    "latitude": -33.6947,
+    "longitude": 116.2382
+  },
+  {
     "state": "QLD",
     "postcode": "4418",
     "count": 105,
     "latitude": -26.2741,
     "longitude": 150.0712
-  },
-  {
-    "state": "WA",
-    "postcode": "6509",
-    "count": 104,
-    "latitude": -30.9617,
-    "longitude": 116.2299
   },
   {
     "state": "VIC",
@@ -17890,6 +17883,13 @@
     "count": 104,
     "latitude": -30.8944,
     "longitude": 135.4627
+  },
+  {
+    "state": "WA",
+    "postcode": "6509",
+    "count": 104,
+    "latitude": -30.9617,
+    "longitude": 116.2299
   },
   {
     "state": "WA",
@@ -17948,18 +17948,18 @@
     "longitude": 116.5643
   },
   {
-    "state": "WA",
-    "postcode": "6228",
-    "count": 94,
-    "latitude": -33.3304,
-    "longitude": 115.7547
-  },
-  {
     "state": "VIC",
     "postcode": "3599",
     "count": 94,
     "latitude": -34.7208,
     "longitude": 143.1385
+  },
+  {
+    "state": "WA",
+    "postcode": "6228",
+    "count": 94,
+    "latitude": -33.3304,
+    "longitude": 115.7547
   },
   {
     "state": "WA",
@@ -18074,18 +18074,18 @@
     "longitude": 144.9528
   },
   {
-    "state": "WA",
-    "postcode": "6466",
-    "count": 76,
-    "latitude": -30.7449,
-    "longitude": 117.121
-  },
-  {
     "state": "VIC",
     "postcode": "3378",
     "count": 76,
     "latitude": -37.5145,
     "longitude": 143.0051
+  },
+  {
+    "state": "WA",
+    "postcode": "6466",
+    "count": 76,
+    "latitude": -30.7449,
+    "longitude": 117.121
   },
   {
     "state": "VIC",
@@ -18103,17 +18103,17 @@
   },
   {
     "state": "WA",
-    "postcode": "6705",
-    "count": 74,
-    "latitude": -25.0338,
-    "longitude": 115.3022
-  },
-  {
-    "state": "WA",
     "postcode": "6351",
     "count": 74,
     "latitude": -33.2137,
     "longitude": 117.9374
+  },
+  {
+    "state": "WA",
+    "postcode": "6705",
+    "count": 74,
+    "latitude": -25.0338,
+    "longitude": 115.3022
   },
   {
     "state": "WA",
@@ -18144,11 +18144,11 @@
     "longitude": 118.7064
   },
   {
-    "state": "WA",
-    "postcode": "6506",
+    "state": "NSW",
+    "postcode": "2411",
     "count": 66,
-    "latitude": -31.032,
-    "longitude": 116.0461
+    "latitude": -29.1299,
+    "longitude": 150.2974
   },
   {
     "state": "WA",
@@ -18158,11 +18158,11 @@
     "longitude": 118.1737
   },
   {
-    "state": "NSW",
-    "postcode": "2411",
+    "state": "WA",
+    "postcode": "6506",
     "count": 66,
-    "latitude": -29.1299,
-    "longitude": 150.2974
+    "latitude": -31.032,
+    "longitude": 116.0461
   },
   {
     "state": "WA",
@@ -18179,18 +18179,18 @@
     "longitude": 152.8856
   },
   {
-    "state": "QLD",
-    "postcode": "4384",
-    "count": 62,
-    "latitude": -28.7303,
-    "longitude": 151.1748
-  },
-  {
     "state": "VIC",
     "postcode": "3565",
     "count": 62,
     "latitude": -36.1956,
     "longitude": 144.5376
+  },
+  {
+    "state": "QLD",
+    "postcode": "4384",
+    "count": 62,
+    "latitude": -28.7303,
+    "longitude": 151.1748
   },
   {
     "state": "VIC",
@@ -18200,18 +18200,18 @@
     "longitude": 147.9188
   },
   {
-    "state": "WA",
-    "postcode": "6487",
-    "count": 56,
-    "latitude": -31.1898,
-    "longitude": 117.6632
-  },
-  {
     "state": "SA",
     "postcode": "5150",
     "count": 56,
     "latitude": -34.973,
     "longitude": 138.6722
+  },
+  {
+    "state": "WA",
+    "postcode": "6487",
+    "count": 56,
+    "latitude": -31.1898,
+    "longitude": 117.6632
   },
   {
     "state": "WA",
@@ -18228,18 +18228,18 @@
     "longitude": 115.2757
   },
   {
-    "state": "WA",
-    "postcode": "6470",
-    "count": 52,
-    "latitude": -30.4472,
-    "longitude": 117.2999
-  },
-  {
     "state": "VIC",
     "postcode": "3506",
     "count": 52,
     "latitude": -35.2252,
     "longitude": 141.3684
+  },
+  {
+    "state": "WA",
+    "postcode": "6470",
+    "count": 52,
+    "latitude": -30.4472,
+    "longitude": 117.2999
   },
   {
     "state": "SA",
@@ -18305,13 +18305,6 @@
     "longitude": 115.8905
   },
   {
-    "state": "WA",
-    "postcode": "6605",
-    "count": 39,
-    "latitude": -30.7055,
-    "longitude": 116.8103
-  },
-  {
     "state": "VIC",
     "postcode": "3647",
     "count": 39,
@@ -18331,6 +18324,13 @@
     "count": 39,
     "latitude": -31.4276,
     "longitude": 117.9315
+  },
+  {
+    "state": "WA",
+    "postcode": "6605",
+    "count": 39,
+    "latitude": -30.7055,
+    "longitude": 116.8103
   },
   {
     "state": "WA",
@@ -18375,18 +18375,18 @@
     "longitude": 121.9492
   },
   {
-    "state": "TAS",
-    "postcode": "7257",
-    "count": 30,
-    "latitude": -40.3713,
-    "longitude": 148.043
-  },
-  {
     "state": "SA",
     "postcode": "5717",
     "count": 30,
     "latitude": -32.16,
     "longitude": 135.8152
+  },
+  {
+    "state": "TAS",
+    "postcode": "7257",
+    "count": 30,
+    "latitude": -40.3713,
+    "longitude": 148.043
   },
   {
     "state": "VIC",

@@ -1,18 +1,17 @@
 use std::{
-    collections::HashMap,
+    collections::BTreeMap,
     fs::{self, File},
     io::{BufRead, BufReader},
 };
 
 use anyhow::Result;
-use geojson::{Feature, FeatureCollection, Geometry};
 use serde::Serialize;
 
 fn main() -> Result<()> {
     let reader = BufReader::new(zstd::Decoder::new(File::open("gnaf-core.psv.zst")?)?);
 
-    let mut states = HashMap::new();
-    let mut postcodes: HashMap<String, HashMap<String, Vec<(f64, f64)>>> = HashMap::new();
+    let mut states = BTreeMap::new();
+    let mut postcodes: BTreeMap<String, BTreeMap<String, Vec<(f64, f64)>>> = BTreeMap::new();
     for result in reader.lines().skip(1) {
         let line = result?;
         let fields: Vec<_> = line.split('|').collect();
@@ -31,7 +30,7 @@ fn main() -> Result<()> {
         let point = (latitude, longitude);
 
         if !postcodes.contains_key(postcode) {
-            postcodes.insert(postcode.to_string(), HashMap::new());
+            postcodes.insert(postcode.to_string(), BTreeMap::new());
         }
         let localities = postcodes.get_mut(postcode).unwrap();
         if let Some(points) = localities.get_mut(locality) {
@@ -112,11 +111,20 @@ fn main() -> Result<()> {
         "localities.json",
         serde_json::to_string_pretty(&output_localities)?,
     )?;
+    let mut writer = csv::Writer::from_path("localities.csv")?;
+    for x in &output_localities {
+        writer.serialize(x)?;
+    }
+
     output_postcodes.sort_by(|a, b| b.count.cmp(&a.count));
     fs::write(
         "postcodes.json",
         serde_json::to_string_pretty(&output_postcodes)?,
     )?;
+    let mut writer = csv::Writer::from_path("postcodes.csv")?;
+    for x in &output_postcodes {
+        writer.serialize(x)?;
+    }
 
     Ok(())
 }
