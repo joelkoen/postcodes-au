@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cat localities.json | jq -f geojson.jq > localities.geojson
-cat postcodes.json | jq -f geojson.jq > postcodes.geojson
+cat data/localities-au.json | jq -f geojson.jq > data/localities-au.geojson
+cat data/postcodes-au.json | jq -f geojson.jq > data/postcodes-au.geojson

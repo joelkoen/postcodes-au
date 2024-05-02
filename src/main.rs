@@ -108,20 +108,20 @@ fn main() -> Result<()> {
 
     output_localities.sort_by(|a, b| b.count.cmp(&a.count));
     fs::write(
-        "localities.json",
+        "data/localities-au.json",
         serde_json::to_string_pretty(&output_localities)?,
     )?;
-    let mut writer = csv::Writer::from_path("localities.csv")?;
+    let mut writer = csv::Writer::from_path("data/localities-au.csv")?;
     for x in &output_localities {
         writer.serialize(x)?;
     }
 
     output_postcodes.sort_by(|a, b| b.count.cmp(&a.count));
     fs::write(
-        "postcodes.json",
+        "data/postcodes-au.json",
         serde_json::to_string_pretty(&output_postcodes)?,
     )?;
-    let mut writer = csv::Writer::from_path("postcodes.csv")?;
+    let mut writer = csv::Writer::from_path("data/postcodes-au.csv")?;
     for x in &output_postcodes {
         writer.serialize(x)?;
     }

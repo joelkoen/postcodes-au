@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>postcodes-au demo</title>
+    <title>postcodes-au viewer</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -36,11 +36,11 @@
       map.on("load", async () => {
         map.addSource("localities", {
           type: "geojson",
-          data: "localities.geojson",
+          data: "localities-au.geojson",
         });
         map.addSource("postcodes", {
           type: "geojson",
-          data: "postcodes.geojson",
+          data: "postcodes-au.geojson",
         });
         map.addLayer({
           id: "localities-points",
